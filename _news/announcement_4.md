@@ -1,10 +1,9 @@
 ---
 layout: post
-title: PhD defence
+title: I defended my PhD thesis!
 date: 2021-07-08 16:11:00-0400
 inline: false
 ---
-
 # Online Ph.D. conferral Mr. Esam A.H. Ghaleb
 
 Supervisors: Dr. S. Asteriadis, Prof. dr. G. Weiss

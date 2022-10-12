@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href=https://www.uva.nl>UvA	</a>. L6.39 in the LAB42, Science Park 900, 1012 WX, Amsterdam, The Netherlands. Contacts. Moto. Etc.
+subtitle: <a href=https://www.uva.nl>UvA	</a>. L6.39 in the LAB42, Science Park 900, 1012 WX, Amsterdam, The Netherlands.
 
 profile:
   align: right
