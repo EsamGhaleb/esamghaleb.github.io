@@ -4,9 +4,8 @@ title: PROCare4Life
 description: PROCareLife – PeRsOnalized Integrated CARE Solution for Elderly facing several short or long term conditions and enabling a better quality of LIFE
 img: assets/img/PROCare4Life_logo.png
 importance: 1
-category: work
+category: Maastricht University
 ---
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/PROCare4Life_logo.png" title="example image" class="img-fluid rounded z-depth-1" %}

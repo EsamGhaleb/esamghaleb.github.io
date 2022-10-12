@@ -6,14 +6,13 @@
   - name: Contact
     value: e.ghaleb@uva.nl
   - name: Languages
-    value: Arabic (Native); English and Turkish (Fluent); Dutch (Intermediate/B1+)
+    value: Arabic (native), English (fluent), Turkish (fluent); Dutch (intermediate/B1)
 
 - title: Research Areas
   type: list
   contents:
   - My research is focused on Human-centered AI, specifically on affective computing, eXplainable AI (XAI), and human behavior recognition. My primary interest is to advance AI by developing transparent and explainable methodologies that aim at improving people’s lives, using insights into human behaviors coming from domain knowledge.
   - 'A complete CV is available as a PDF (please check above)!'
-
 
 - title: Education
   type: table

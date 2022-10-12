@@ -2,10 +2,10 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: I had been part of varios Horizon EU projects, e.g.,CAMOMILE, ProCare4Life, and MaTHiSiS.
+description: I have been part of varios Horizon EU projects, e.g., CAMOMILE, ProCare4Life, and MaTHiSiS.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [University of Amsterdam, Maastricht University, Istanbul Technical University]
 horizontal: false
 ---
 <!-- pages/projects.md -->

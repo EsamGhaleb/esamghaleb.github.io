@@ -5,8 +5,12 @@
 "PhysRev":
   url: https://journals.aps.org/
 
-  "FG21":
-    url: http://iab-rubric.org/fg2021/
+"FG21":
+  url: http://iab-rubric.org/fg2021/
 
-  "BBNAIC21":
-    url: https://bnaic2021.uni.lu/
+"BBNAIC21":
+  url: https://bnaic2021.uni.lu/
+"MTAP":
+  url: https://www.springer.com/journal/11042
+"TBBIS":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8423754
