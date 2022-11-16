@@ -4,9 +4,9 @@ title: NLPitch at the ILLC!
 date: 2022-10-18
 inline: false
 ---
-I will be talking about my recent recent at ILLC in NLPitch event!
+I will be talking about my recent at ILLC in NLPitch event!
 
-**Title:** Multimodal Emotion Recognition through Deep Learning
+**Title: Multimodal Emotion Recognition through Deep Learning**
 
 **Abstract** : A great amount of affective information is displayed through facial expressions, gestures, speech, and other means, making multimodality a compelling approach to emotion recognition. In this talk, I will discuss emotion recognition using both facial expressions and speech signals as well as bodily cues.
 
