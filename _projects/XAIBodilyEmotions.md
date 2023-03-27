@@ -11,8 +11,6 @@ category: Interpretable & Explainable AI
         {% include figure.html path="assets/img/publication_preview/explainable_body.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-</div>
 
 This is a pioneering study in the field of emotion recognition since it shifts the focus of explainable AI from voice and face as expressive modalities to bodily expressions. In this study, I proposed a procedure using state-of-the-art machine learning methods that offer accurate performance and explainable decisions. Specifically, I developed a explainable framework for bodily expressed emotion recognition, using Graph Convolutional Networks (GCNs), that offer accurate performance and explainable decisions. Our findings show. In comprehensive evaluations, the study’s findings show that hands and arm movements are the most significant for automatic bodily expressed emotion recognition. These findings are in alignment with perceptual studies which have shown that features related to the arms’ movements are correlated the most with human perception of emotions.
 
@@ -25,7 +23,6 @@ I believe that having transparent and explainable methods increases scientific d
 2021 16th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2021), Jodhpur, India, 2021, pp. 1-8, doi: 10.1109/FG52635.2021.9667052.
 </li>
 <li>A. Mertens, E. Ghaleb, and S. Asteriadis.  <a href="https://www.researchgate.net/profile/Esam-Ghaleb-2/publication/356356349_Explainable_and_Interpretable_Features_of_Emotion_in_Human_Body_Expressions/links/619671c207be5f31b796c7f1/Explainable-and-Interpretable-Features-of-Emotion-in-Human-Body-Expressions.pdf">"Explainable and Interpretable Features of Emotion in Human Body Expressions."</a> (2021).</li>
-
 </ul>
 
 This video shows a demo from the work titled "Skeleton-Based Explainable Bodily Expressed Emotion Recognition Through Graph Convolutional Networks" that was presented at the 16th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2021) in Jodhpur, India, 2021:
