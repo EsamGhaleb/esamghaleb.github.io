@@ -4,7 +4,7 @@ title: Multimodal Alginment
 description: Understanding the emergence and maintenance of cross-modal alignment in dialogu
 img: assets/img/CABB_Computational.png
 importance: 1
-category: University of Amsterdam
+category: Multimodal Communication
 ---
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
