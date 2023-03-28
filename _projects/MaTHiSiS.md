@@ -26,7 +26,7 @@ In this project, I worked on the following tasks:
 <li>Developing a vision framework for recognizing basic emotions from facial expressions.</li>
 </ul></p>
 
-This video shows a presentation of the MaTHiSiS project, which was shown in the Bachelor Open Days (October 2017).
+This video shows a presentation of the MaTHiSiS project, which was shown in the Bachelor Open Days (October 2017). The video includes my work, as well as the work of my colleagues in the RAI group.
 
 <p><iframe title="MaTHiSiS presentation October 2017" width="720" height="540" src="https://www.youtube.com/embed/TonwoAOb0cc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 <hr />
