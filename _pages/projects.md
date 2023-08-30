@@ -7,7 +7,7 @@ nav_order: 5
 display_categories: [Multimodal Communication, Multimodal Emotion Recognition, Interpretable & Explainable AI, Multimodal Human Behavior Analysis, Facial Recognition] 
 horizontal: false
 ---
-**Research scope and interests**:
+**In the pages below, I've provided additional information and references to research outputs for the subsequent research topics:**
 
 **Multimodal face-to-face dialogue modeling.** I am currently a postdoctoral researcher in the Dialogue Modelling Group at the Institute for Logic, Language & Computation (ILLC), University of Amsterdam. My primary research focuses on face-to-face dialogue modeling. Specifically, I am interested in dialogue coordination to model and understand the emergence and maintenance of cross-modal convergence in dialogue when interlocutors speak about novel objects. In this work, I collaborate with lead linguists and cognitive scientists specializing in dialogue and gestures from UvA, Radboud University, and TU Dresden.
 
