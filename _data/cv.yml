@@ -6,12 +6,12 @@
   - name: Contact
     value: e.ghaleb@uva.nl
   - name: Languages
-    value: Arabic (native), English (fluent), Turkish (fluent); Dutch (A2/B1)
+    value: Arabic (native), English (fluent), Turkish (fluent); Dutch (A2-->B1)
 
-- title: Research Areas
-  type: list
-  contents:
-  -  Broadly, my research is focused on Human-centered AI, specifically on affective computing, eXplainable AI (XAI), and understanding human behaviors & communication. I utilize various behavioral & communication cues such as facial expressions, voice prosody, bodily movements, speech, and gestures to develop transparent and explainable methodologies that improve people's lives through insights into human behaviors from domain knowledge.
+# - title: Research Interest
+#   type: list
+#   contents:
+#   -  I am fascinated by how people employ verbal and non-verbal cues in their interactions. This fascination has driven my research on human-centered AI, focusing on recognizing and modeling human behaviors such as emotions, activities, and dialogue coordination. I pay particular attention to non-verbal cues—speech prosody, facial expressions, and gestures—critical for human communication and communication technologies. My research aims to get a deeper understanding of how humans employ communication cues and to make communication technologies embody these processes, which can significantly benefit assistive technologies, thereby improving people’s experiences and lives.
 
 - title: Education
   type: table
@@ -27,15 +27,20 @@
     year: 2013 - 2015
     location: Turkey
     description:
+    - 'Graduated with Honors'
     # - 'Co-advised by <a href="http://www.cs.cmu.edu/~tom/" target="_blank"><b>Prof. Tom M. Mitchell</b></a> and <a href="http://www.cs.cmu.edu/~bapoczos/" target="_blank"><b>Dr. Barnabàs Pòczos</b></a>'
     # - 'GPA: 4.0 (4.0 scale)'
     - 'Master Thesis: <a href="https://polen.itu.edu.tr:8443/server/api/core/bitstreams/1a23f86f-c1af-473c-aeb1-9d0ebe950438/content" target="_blank"><b>Face Track Retrieval and Recognition Across Age</b></a>'
     # - 'Master’s degree requirements completed while working towards obtaining my Ph.D.'
+    
   - title: Istanbul Technical University - B.Sc., Computer Engineering
     year: 2009 - 2013
     location: Turkey
+    description:
+    - 'Graduated with Honors'
+    - 'Bachelor Thesis: An Energy Efficient Routing Technique and Implementation in WSNs'
 
-- title: 'Current Work Experience: Academic Positions'
+- title: 'Current Work'
   type: table
   contents:
   - title: Postdoctoral Researcher at University of Amsterdam
@@ -45,7 +50,7 @@
       - 'Advisors: <a href="https://staff.fnwi.uva.nl/r.fernandezrovira/" target="_blank"><b>Prof. Dr. Raquel Fernández Rovira</b></a>'
       - 'Research Area: Face-to-face dialogue modelling'
       # use the following link for Raquel: https://staff.fnwi.uva.nl/r.fernandezrovira/
-- title: 'Previous Work Experience: Academic Positions'
+- title: 'Previous Work'
   type: table
   contents:
     - title: Postdoctoral Researcher in the Robots, Agents and Interaction (RAI) Group at Maastricht University
@@ -94,7 +99,8 @@
       year: 2021
       location: IJCB 2021
       description: 
-      - 'Our paper titled: <a href="https://ieeexplore.ieee.org/abstract/document/9484410?casa_token=Dxr_86gpcl0AAAAA:5mbWaoiAg_9UbpW8RPd77gC-S1qwdQOYMwqhwxNFHvI_iDEicHi6cJ12O3tbogEFOy_MEr4" target="_blank"><b>Contrastive self-supervised learning for sensor- based human activity recognition</b></a> was nominated for best paper award at the <a href="https://ijcb2021.iapr-tc4.org/best-papers/" target="_blank"><b>2021 IEEE International Joint Conference on Biometrics (IJCB 2021)</b></a>. The paper was co-authored by <a href="https://scholar.google.nl/citations?user=hKf_B7kAAAAJ&hl=en" target="_blank"><b>Bulat Khaertdinov</b></a>, <a href="https://esamghaleb.github.io/" target="_blank"><b>Esam Ghaleb</b></a>, and <a href="https://dke.maastrichtuniversity.nl/stelios.asteriadis/" target="_blank"><b>Stylianos Asteriadis</b></a>.'
+      - 'Our paper titled <a href="https://ieeexplore.ieee.org/abstract/document/9484410?casa_token=Dxr_86gpcl0AAAAA:5mbWaoiAg_9UbpW8RPd77gC-S1qwdQOYMwqhwxNFHvI_iDEicHi6cJ12O3tbogEFOy_MEr4" target="_blank"><b>Contrastive self-supervised learning for sensor- based human activity recognition</b></a> was nominated for best paper award at the <a href="https://ijcb2021.iapr-tc4.org/best-papers/" target="_blank"><b>2021 IEEE International Joint Conference on Biometrics (IJCB 2021)</b></a>.'
+      #  The paper was co-authored by <a href="https://scholar.google.nl/citations?user=hKf_B7kAAAAJ&hl=en" target="_blank"><b>Bulat Khaertdinov</b></a>, <a href="https://esamghaleb.github.io/" target="_blank"><b>Esam Ghaleb</b></a>, and <a href="https://dke.maastrichtuniversity.nl/stelios.asteriadis/" target="_blank"><b>Stylianos Asteriadis</b></a>.'
     - title: <a href="http://icbrw.di.ubi.pt/results" target="_blank"> <b>Ranked 1st in the International Challenge on Biometric Recognition in the Wild 2016 (ICB-RW)</b></a>
       year: 2016
     - title: ITU Scholarship as project assistant within the scope of the (CAMOMILE) project

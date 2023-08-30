@@ -12,7 +12,9 @@ My teaching goals revolve around fostering students’ knowledge, interests, and
 
 During my studies and work experiences, I was lucky to gain teaching experiences across different cultures, disciplines, and institutes.
 
-* **2023 – Kunstmatige intelligentie – Bachelor (Bachelor of AI), University of Amsterdam**
+* **2023** **Guest lecture on machine learning for multimodal behavior**
+  * The lecture is in the summer school “[Practical Approaches to Human Multimodal Behavior: From Acquiring and Aligning Data to Quantifying Patterns](https://vicom.info/summer-school-practical-approaches-to-human-multimodal-behavior-from-acquiring-and-aligning-data-to-quantifying-patterns/).”
+* **2023 – Kunstmatige Intelligentie – Bachelor (Bachelor of AI), University of Amsterdam**
   * Course co-coordinator and lecturer of [Natuurlijke Taalmodellen en Interfaces (NTMI) - Natural Language Models and Interfaces](https://studiegids.uva.nl/xmlpages/page/2022-2023/zoek-vak/vak/98500)
 * **2022 – BSc Data Science and Artificial Intelligence, Department of Advanced Computing Sciences(DACS), Maastricht University**
   * Tutor in [DACS’s Research Project MAI 2](https://www.maastrichtuniversity.nl/meta/438103/research-project-mai-2). The projects span periods 4, 5, & 6.
