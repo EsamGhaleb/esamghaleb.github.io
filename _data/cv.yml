@@ -42,7 +42,7 @@
     year: 09/22–present
     location: Amsterdam, The Netherlands
     description:
-      - 'Advisors: <a href="https://staff.fnwi.uva.nl/r.fernandezrovira/" target="_blank"><b>Dr. Raquel Fernández Rovira</b></a>'
+      - 'Advisors: <a href="https://staff.fnwi.uva.nl/r.fernandezrovira/" target="_blank"><b>Prof. Dr. Raquel Fernández Rovira</b></a>'
       - 'Research Area: Face-to-face dialogue modelling'
       # use the following link for Raquel: https://staff.fnwi.uva.nl/r.fernandezrovira/
 - title: 'Previous Work Experience: Academic Positions'
@@ -55,7 +55,7 @@
         - 'Advisors: <a href="https://dke.maastrichtuniversity.nl/stelios.asteriadis/" target="_blank"><b>Dr. Stylianos Asteriadis</b></a>, and <a href="http://www.weiss-gerhard.info/" target="_blank"><b>Prof. Dr. Gerhard Weiss</b></a>'
 
         - 'Research Area: Machine Learning, Explainable AI (XAI), and Human Behavioral Analysis.'
-        - 'The research is conducted within the EU H2020 project: PeRsOnalized Integrated CARE Solution for Elderly facing several short or long term conditions & enabling a better quality of LIFE (ProCare4Life)'
+        # - 'The research is conducted within the EU H2020 project: PeRsOnalized Integrated CARE Solution for Elderly facing several short or long term conditions & enabling a better quality of LIFE (ProCare4Life)'
     - title: Doctoral Researcher at Maastricht University
       year: 03/16–01/20
       location: Maastricht, The Netherlands
@@ -65,18 +65,19 @@
         # Stylianos' link: https://dke.maastrichtuniversity.nl/stelios.asteriadis/
         # Gerhard's link: http://www.weiss-gerhard.info/
         - 'Advisors: <a href="https://www.maastrichtuniversity.nl/mirela.popa" target="_blank"><b>Dr. Mirela Popa</b></a>, <a href="https://dke.maastrichtuniversity.nl/enrique.hortal/" target="_blank"><b>Dr. Enrique Hortal</b></a>, <a href="https://dke.maastrichtuniversity.nl/stelios.asteriadis/" target="_blank"><b>Dr. Stylianos Asteriadis</b></a>, and <a href="http://www.weiss-gerhard.info/" target="_blank"><b>Prof. Dr. Gerhard Weiss</b></a>'
-        - 'Research Area: Affective Computing, Explainable AI, and Human Behavior Recognition'
-        - 'The research is carried out within the EU H2020 project: Managing Affective-learning THrough Intelligent atoms and Smart InteractionS (MaTHiSiS)'
+        - 'Research Area: Affective Computing, Explainable AI, and Human Behavior Analysis'
+        # - 'The research is carried out within the EU H2020 project: Managing Affective-learning THrough Intelligent atoms and Smart InteractionS (MaTHiSiS)'
 
     - title:  Research Intern in Computer Vision for Human-Computer Interaction (CVHCI) Lab at Karlsruhe Institute of Technology (KIT)
       year: 06/14–08/14
       location: Germany
       description:
-        - 'Advisor: <a href="https://makarandtapaswi.github.io/" target="_blank"><b>Prof. Dr. Makarand Tapaswi</b></a>'
+        - 'Advisor: <a href="https://makarandtapaswi.github.io/" target="_blank"><b>Dr. Makarand Tapaswi</b></a>'
 
         - 'Research Area: Computer Vision'
         # use the following link for Makarand: https://makarandtapaswi.github.io/
-        - 'I visited the CVHCI again in the summer 2015, as a visiting researcher, and worked on the EU H2020 project: Collaborative Annotation of multi-MOdal, multI-Lingual and multi-mEdia documents (CAMOMILE)'
+        - 'I visited the CVHCI again in the summer 2015, where I conducted the research for my master thesis.'
+        # , and worked on the EU H2020 project: Collaborative Annotation of multi-MOdal, multI-Lingual and multi-mEdia documents (CAMOMILE)'
     - title: Research Assistant in the Smart Interaction and Machine Intelligence Technologies (SiMiT) Lab at Istanbul Technical University (ITU)
       year: 07/13–02/16
       location: Turkey
@@ -84,23 +85,23 @@
         # update the link for Hazim using this link: https://web.itu.edu.tr/ekenel/
         - 'Advisor: <a href="https://web.itu.edu.tr/ekenel/" target="_blank"><b>Prof. Dr. Hazim Kemal Ekenel</b></a>'
         - 'Research Area: Computer Vision, Human-computer Interaction, Mobile Gaming.'
-        - 'Research within the European CHIST-ERA project : Collaborative Annotation of multi-MOdal, multI-Lingual and multi-mEdia documents (CAMOMILE)'
+        # - 'Research within the European CHIST-ERA project : Collaborative Annotation of multi-MOdal, multI-Lingual and multi-mEdia documents (CAMOMILE)'
 
 - title:  Honors & Achievements
   type: table
   contents:
-    - title: Second runner up paper award
+    - title: Nomination for best paper award
       year: 2021
       location: IJCB 2021
       description: 
-      - 'Our paper titled: <a href="https://ieeexplore.ieee.org/abstract/document/9484410?casa_token=Dxr_86gpcl0AAAAA:5mbWaoiAg_9UbpW8RPd77gC-S1qwdQOYMwqhwxNFHvI_iDEicHi6cJ12O3tbogEFOy_MEr4" target="_blank"><b>Contrastive self-supervised learning for sensor- based human activity recognition</b></a> was awarded the second runner up paper award at the <a href="https://ijcb2021.iapr-tc4.org/best-papers/" target="_blank"><b>2021 IEEE International Joint Conference on Biometrics (IJCB 2021)</b></a>. The paper was co-authored by <a href="https://scholar.google.nl/citations?user=hKf_B7kAAAAJ&hl=en" target="_blank"><b>Bulat Khaertdinov</b></a>, <a href="https://esamghaleb.github.io/" target="_blank"><b>Esam Ghaleb</b></a>, and <a href="https://dke.maastrichtuniversity.nl/stelios.asteriadis/" target="_blank"><b>Stylianos Asteriadis</b></a>.'
+      - 'Our paper titled: <a href="https://ieeexplore.ieee.org/abstract/document/9484410?casa_token=Dxr_86gpcl0AAAAA:5mbWaoiAg_9UbpW8RPd77gC-S1qwdQOYMwqhwxNFHvI_iDEicHi6cJ12O3tbogEFOy_MEr4" target="_blank"><b>Contrastive self-supervised learning for sensor- based human activity recognition</b></a> was nominated for best paper award at the <a href="https://ijcb2021.iapr-tc4.org/best-papers/" target="_blank"><b>2021 IEEE International Joint Conference on Biometrics (IJCB 2021)</b></a>. The paper was co-authored by <a href="https://scholar.google.nl/citations?user=hKf_B7kAAAAJ&hl=en" target="_blank"><b>Bulat Khaertdinov</b></a>, <a href="https://esamghaleb.github.io/" target="_blank"><b>Esam Ghaleb</b></a>, and <a href="https://dke.maastrichtuniversity.nl/stelios.asteriadis/" target="_blank"><b>Stylianos Asteriadis</b></a>.'
     - title: <a href="http://icbrw.di.ubi.pt/results" target="_blank"> <b>Ranked 1st in the International Challenge on Biometric Recognition in the Wild 2016 (ICB-RW)</b></a>
       year: 2016
     - title: ITU Scholarship as project assistant within the scope of the (CAMOMILE) project
       year: 2013 - 2016 
-    - title: Awarded scholarships from the Ministries of Higher Education in Yemen and Turkey, in the scope of supporting talented Yemeni students
+    - title: Received scholarships sponsored by the Ministries of Higher Education in both Yemen and Turkey, aimed at advancing the education of talented Yemeni students.
       year: 2007 - 2013
-    - title: Among the top 1000 students in the 2006 General Secondary School Exams in Yemen Republic
+    - title: Graduated in the top 0.2% of high school graduates nationwide in Yemen
       year: 2006
 
   #   description:

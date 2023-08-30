@@ -4,7 +4,7 @@ title: NLPitch at the ILLC!
 date: 2022-10-18
 inline: false
 ---
-I will be talking about my recent at ILLC in NLPitch event!
+I will be talking about my recent research at ILLC in NLPitch event!
 
 **Title: Multimodal Emotion Recognition through Deep Learning**
 
