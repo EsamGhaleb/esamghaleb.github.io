@@ -12,7 +12,7 @@ My teaching goals revolve around fostering students’ knowledge, interests, and
 
 During my studies and work experiences, I was lucky to gain teaching experiences across different cultures, disciplines, and institutes.
 
-* **2023** **Guest lecture on machine learning for multimodal behavior**
+* **2023** **Guest Lecture on Machine Learning for Multimodal Human Behavior**
   * The lecture is in the summer school “[Practical Approaches to Human Multimodal Behavior: From Acquiring and Aligning Data to Quantifying Patterns](https://vicom.info/summer-school-practical-approaches-to-human-multimodal-behavior-from-acquiring-and-aligning-data-to-quantifying-patterns/).”
 * **2023 – Kunstmatige Intelligentie – Bachelor (Bachelor of AI), University of Amsterdam**
   * Course co-coordinator and lecturer of [Natuurlijke Taalmodellen en Interfaces (NTMI) - Natural Language Models and Interfaces](https://studiegids.uva.nl/xmlpages/page/2022-2023/zoek-vak/vak/98500)
