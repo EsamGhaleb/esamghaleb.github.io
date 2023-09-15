@@ -33,4 +33,4 @@ During my academic work, I have supervised Master's students and a Ph.D. candida
   * **2021 - Andre Mertens**: [Explainable and Interpretable Features of Emotion in Human Body Expression](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=TqP9GTsAAAAJ&sortby=pubdate&citation_for_view=TqP9GTsAAAAJ:Se3iqnhoufwC)
   * **2020 - Jan Lucas**: [Deep, Dimensional, and Multimodal Emotion Recognition Using Attention Mechanisms](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=TqP9GTsAAAAJ&sortby=pubdate&citation_for_view=TqP9GTsAAAAJ:9yKSN-GCB0IC)
 * **Ph.D. candidates (daily supervisor)**
-  * **2020-2021 - Bulat Khaertdinov**. With Bulat, we published several papers on Self-supervised learning for human activity recognition.
+  * **2020-2021 - Bulat Khaertdinov**. With Bulat, we published several papers on[ Self-supervised learning for human activity recognition](https://esamghaleb.github.io/projects/HAR_Bulat/).
