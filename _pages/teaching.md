@@ -8,22 +8,20 @@ nav_order: 4
 ---
 ### Teaching
 
-My teaching goals revolve around fostering students’ knowledge, interests, and personal growth to prepare them for future challenges in the field of AI. In teaching, I am interested in supporting students’ critical thinking and collaboration in real-world problems to deepen their theoretical and practical understanding of learning materials. I pay significant attention to motivating students to participate and engage interactively during lectures.
-
-During my studies and work experiences, I was lucky to gain teaching experiences across different cultures, disciplines, and institutes.
+During my studies and work experiences, I was lucky to gain teaching experiences across different cultures, disciplines, and institutes:
 
 * **2023** **Guest Lecture on Machine Learning for Multimodal Human Behavior**
-  * The lecture is in the summer school “[Practical Approaches to Human Multimodal Behavior: From Acquiring and Aligning Data to Quantifying Patterns](https://vicom.info/summer-school-practical-approaches-to-human-multimodal-behavior-from-acquiring-and-aligning-data-to-quantifying-patterns/).”
+  * The lecture is in the summer school “[Practical Approaches to Human Multimodal Behavior: From Acquiring and Aligning Data to Quantifying Patterns](https://envisionbox.org/summerschool.html).”
 * **2023 – Kunstmatige Intelligentie – Bachelor (Bachelor of AI), University of Amsterdam**
   * Course co-coordinator and lecturer of [Natuurlijke Taalmodellen en Interfaces (NTMI) - Natural Language Models and Interfaces](https://studiegids.uva.nl/xmlpages/page/2022-2023/zoek-vak/vak/98500)
 * **2022 – BSc Data Science and Artificial Intelligence, Department of Advanced Computing Sciences(DACS), Maastricht University**
-  * Tutor in [DACS’s Research Project MAI 2](https://www.maastrichtuniversity.nl/meta/438103/research-project-mai-2). The projects span periods 4, 5, & 6.
+  * Tutor in [DACS’s Research Project MAI 2](https://curriculum.maastrichtuniversity.nl/meta/467523/research-project-artificial-intelligence-2?print=1). The projects span periods 4, 5, & 6.
   * In this project course, I had regular weekly meetings with students to help them manage the workload and group dynamics and simulate self-learning to deliver the final project.
 * **2017 - 2019 – MSc Artificial Intelligence, Department of Advanced Computing Sciences (DACS), Maastricht University**
-  * Graduate TA of [Computer Vision (KEN4255)](https://www.maastrichtuniversity.nl/meta/437213/computer-vision) in Period 5 for several years.
+  * Graduate TA of [Computer Vision (KEN4255)](https://curriculum.maastrichtuniversity.nl/meta/466719/computer-vision) in Period 5 for several years.
   * In this course, I was responsible for co-designing project homework and guiding more than 50 participating students through the computer vision course as a head teaching assistant at UM for three years in the AI master program. I also gave recitation tutorials and answered students’ questions about the course materials.
 * **2016 - University College Maastricht (UCM), Maastricht University**
-  * TA in [Programming (PRA2003)](https://www.maastrichtuniversity.nl/meta/435647/programming?print=1) in period 4.
+  * TA in [Programming (PRA2003)](https://curriculum.maastrichtuniversity.nl/meta/462965/introduction-programming) in period 4.
 * **2015 – MSc Computer Engineering, Istanbul Technical University**
   * TA in [Content-based Image and Video Retrieval (BLG 544E)](https://ninova.itu.edu.tr/en/courses/institute-of-science-and-technology/2357/blg-544e/)
 

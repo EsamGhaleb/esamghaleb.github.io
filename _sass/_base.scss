@@ -427,7 +427,9 @@ footer.sticky-bottom {
       }
     }
   }
-
+  .card-title.text-lowercase {
+    text-transform: uppercase;
+  }
   .card {
     img {
       width: 100%;

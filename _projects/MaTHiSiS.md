@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MaTHiSiS
-description: Managing Affective-learning THrough Intelligent atoms and Smart InteractionS
+description: Managing Affective-learning THrough Intelligent atoms and Smart InteractionS (MaTHiSiS)
 img: assets/img/mathisis_logo.png
 importance: 1
 category: Multimodal Emotion Recognition
@@ -13,7 +13,6 @@ category: Multimodal Emotion Recognition
 </div>
 <div class="caption">
 </div>
-
 
 During my Ph.D., I worked for the Horizon 2020-funded project [MaTHiSiS](http://mathisis-project.eu/), an educational platform providing a personalized learning experience based on multimodal emotion recognition from diverse cues. In MaTHiSiS, my research exploited a wide range of sensors to capture the learners’ affective states. Subsequently, the project aimed to foster a personalized student experience by increasing their engagement and preventing boredom and anxiety. My research at MaTHiSiS benefited from pedagogical experts to develop dynamic multimodal fusion based on different learners’ use cases, such as learners with an autism spectrum disorder or severe disabilities. Please check the [MaTHiSiS](http://mathisis-project.eu/) website for more information.
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Multimodal Emotion Recognition
-description: Audio-video Based Emotion Recognition
+description: My PhD thesis on audio & video based emotion recognitio
 img: assets/img/publication_preview/esamghaleb_phd_cover.png
 importance: 1
 category: Multimodal Emotion Recognition

@@ -19,7 +19,6 @@ Besides, I supervised a Master’s Thesis on the same topic, albeit using a diff
 Having transparent and explainable methods increases scientific discovery to have consistency with domain knowledge. It is an important research direction as it can also help reduce biases and discrimination. More information can be found in the following publications.
 
 * E. Ghaleb, A. Mertens, S. Asteriadis and G. Weiss,"[Skeleton-Based Explainable Bodily Expressed Emotion Recognition Through Graph Convolutional Networks](https://ieeexplore.ieee.org/abstract/document/9667052?casa_token=5FxGqvTUrjcAAAAA:CU3NamSyKLwCG9gKnKgbNkWcFQHJwSwGiTzi2xCcWP7WtNRolZRJ8hXO5oIE5KOri1ZTQ_E)"2021 16th IEEE International Conference on Automatic Face and Gesture Recognition (FG2021), Jodhpur, India, 2021, pp. 1-8, doi: 10.1109/FG52635.2021.9667052.
-
 * A. Mertens, E. Ghaleb, and S. Asteriadis. "[Explainable and Interpretable Features of Emotion in Human Body Expressions](https://www.researchgate.net/profile/Esam-Ghaleb-2/publication/356356349_Explainable_and_Interpretable_Features_of_Emotion_in_Human_Body_Expressions/links/619671c207be5f31b796c7f1/Explainable-and-Interpretable-Features-of-Emotion-in-Human-Body-Expressions.pdf)." in BNAIC/BeneLearn 2021, 2021.
 
 This video shows a demo from my work titled “Skeleton-Based Explainable Bodily Expressed Emotion Recognition Through Graph Convolutional Networks,” which was presented at the 16th IEEE International Conference on Automatic Face and Gesture Recognition (FG2021) in Jodhpur, India, 2021:

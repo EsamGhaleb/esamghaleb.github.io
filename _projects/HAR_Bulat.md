@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Human Activity Recognition
-description: Sensor-based Human Activity Recognition
+description: Self-Suerpvised Learning (SSL) for sensor-based human activity recognition
 img: assets/img/publication_preview/bulat_dynamic_scaling.png
 importance: 1
 category: Multimodal Human Behavior Analysis

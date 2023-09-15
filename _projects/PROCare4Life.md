@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PROCare4Life
-description: PROCareLife – PeRsOnalized Integrated CARE Solution for Elderly facing several short or long term conditions and enabling a better quality of LIFE
+description: PeRsOnalized Integrated CARE Solution for Elderly facing several short or long term conditions and enabling a better quality of LIFE (PROCare4Life)
 img: assets/img/PROCare4Life_logo.png
 importance: 1
 category: Multimodal Human Behavior Analysis

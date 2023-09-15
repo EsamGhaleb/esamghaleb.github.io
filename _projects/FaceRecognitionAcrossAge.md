@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Face Recognition Across Age
-description: 
+description: My Master's thesis on how can Harry Potter movies help us measure AI's performance across ages
 img: assets/img/accio.png
 importance: 1
 category: Facial Recognition

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Multimodal face-to-face dialogue modeling
-description: Understanding the emergence and maintenance of cross-modal alignment in dialogu
+title: Multimodal Face-to-face Dialogue Modeling
+description: Understanding the emergence and maintenance of cross-modal alignment in face-to-face dialogues
 img: assets/img/CABB_Computational.png
 importance: 1
 category: Multimodal Communication
