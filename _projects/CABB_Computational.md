@@ -17,5 +17,5 @@ This project explores how interlocutors in dialogue develop a shared understandi
 
 The following research outputs are related to my work on dialogue coordination:
 
-* **Ghaleb, E.**, Burenko, I., Rasenberg, M., Pouw, W., Uhrig, P., Holler, J.,  Toni, I., Ozyurek, A. & Fernández, R. (2023). Co-Speech Gesture Detection through Multi-phase Sequence Labeling. arXiv preprint arXiv:2308.10680.
+* **Ghaleb, E.**, Burenko, I., Rasenberg, M., Pouw, W., Uhrig, P., Holler, J.,  Toni, I., Ozyurek, A. & Fernández, R. (2024). Co-Speech Gesture Detection through Multi-phase Sequence Labeling. In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2024. To appear
 * **Ghaleb, E.** & Fernández, R. (2023, October 19–20). Linguistic alignment in referential communication: Automatic detection and analysis of its impact on shared conceptualization [Poster presentation]. (Mis)alignment in alignment research: A multidisciplinary workshop on alignment in interaction, Laboratoire Parole et Langage, Aix-en-Provence, France.
