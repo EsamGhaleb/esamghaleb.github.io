@@ -1,10 +1,11 @@
 ---
 layout: page
-title: MaTHiSiS
+title: AI for E-learning
 description: Managing Affective-learning THrough Intelligent atoms and Smart InteractionS (MaTHiSiS)
 img: assets/img/mathisis_logo.png
 importance: 1
-category: Multimodal Emotion Recognition
+category: Projects
+related_publications: ghaleb2018towards, vretos2019exploiting, schwan2017high
 ---
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

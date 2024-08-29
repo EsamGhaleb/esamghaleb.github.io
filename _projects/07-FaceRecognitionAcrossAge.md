@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Face Recognition Across Age
+title: Face Recognition Across Age in Harry Potter Movies
 description: My Master's thesis on how can Harry Potter movies help us measure AI's performance across ages
 img: assets/img/accio.png
 importance: 1
-category: Facial Recognition
+category: Projects
+related_publications: ghaleb2015accio, ghaleb2018deep, demir2014face
 ---
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

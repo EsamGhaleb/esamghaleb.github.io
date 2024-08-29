@@ -1,10 +1,11 @@
 ---
 layout: page
-title: PROCare4Life
+title: AI for Healthcare
 description: PeRsOnalized Integrated CARE Solution for Elderly facing several short or long term conditions and enabling a better quality of LIFE (PROCare4Life)
 img: assets/img/PROCare4Life_logo.png
 importance: 1
-category: Multimodal Human Behavior Analysis
+category: Projects
+related_publications: ghaleb2019multimodal
 ---
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -23,5 +24,5 @@ In addition, I worked on the multimodal fusion task, where I developed a novel f
 Please check the current output of the work on this project in the following items:
 
 * Esam Ghaleb, Yusuf Can Semerci, and Stylianos Asteriadis. 2022. [Modelling Behaviours of People Living with Neurodegenerative Conditions](https://www.researchgate.net/profile/Esam-Ghaleb-2/publication/361914581_Modelling_Behaviours_of_People_Living_with_Neurodegenerative_Conditions/links/63173f97acd814437f0a6bc1/Modelling-Behaviours-of-People-Living-with-Neurodegenerative-Conditions.pdf). In Proceedings of the 15th International Conference on PErvasive Technologies Related to Assistive Environments (PETRA ‘22). Association for Computing Machinery, New York, NY, USA, 351–357. https://doi.org/10.1145/3529190.3534721
-* Esam Ghaleb & others. Personalized and Dynamic Multimodal Fusion of Behavioural Analysis of People Living with Neurodegenerative Conditions (work under progress)
+* Esam Ghaleb & others. Personalized and Dynamic Multimodal Fusion of Behavioural Analysis of People Living with Neurodegenerative Conditions (under submission).
 * Blog Post: [PROCare4Life Sensorial Ecosystem](https://procare4life.eu/news/procare4life-sensorial-ecosystem/)

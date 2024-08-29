@@ -3,7 +3,19 @@
 
 @string{aps = {American Physical Society,}}
 % http://www.cs.vassar.edu/people/priestdo/tips/bibtex
-
+@inproceedings{Ghaleb2024an,
+  title={Speakers align both their gestures and words not only to establish but also to maintain reference to create shared labels for novel objects in interaction},
+  author={Ghaleb, Esam and Khaertdinov, Bulat and Pouw, Wim and Rasenberg, Marlou and Holler, Judith and {\"O}zy{\"u}rek, Asl{\i} and Fern{\'a}ndez, Raquel},
+  booktitle={Proceedings of 26th ACM International Conference on Multimodal Interaction},
+  volume={26},
+  number={26},
+  year={2024},
+  preview={SSL-gestures-dialogues.png},
+  abstract={In face-to-face dialogues, the form-meaning relationship of co-speech gestures varies depending on contextual factors such as what the gestures refer to and the individual characteristics of speakers. These factors make co-speech gesture representation learning challenging. How can we learn meaningful gestures representations considering gestures' variability and relationship with speech? This paper tackles this challenge by employing self-supervised contrastive learning techniques to learn gesture representations from skeletal and speech information. We propose an approach that includes both unimodal and multimodal pre-training to ground gesture representations in co-occurring speech. For training, we utilize a face-to-face dialogue dataset rich with representational iconic gestures. We conduct thorough intrinsic evaluations of the learned representations through comparison with human-annotated pairwise gesture similarity. Moreover, we perform a diagnostic probing analysis to assess the possibility of recovering interpretable gesture features from the learned representations. Our results show a significant positive correlation with human-annotated gesture similarity and reveal that the similarity between the learned representations is consistent with well-motivated patterns related to the dynamics of dialogue interaction. Moreover, our findings demonstrate that several features concerning the form of gestures can be recovered from the latent representations. Overall, this study shows that multimodal contrastive learning is a promising approach for learning gesture representations, which opens the door to using such representations in larger-scale gesture analysis studies.},
+  selected={true},
+  bibtex_show={true},
+  pdf={Ghaleb_Analysing_ICMI2024.pdf},
+}
 @article{ghaleb2024leveraging,
   title={Leveraging Speech for Gesture Detection in Multimodal Communication},
   author={Ghaleb, Esam and Burenko, Ilya and Rasenberg, Marlou and Pouw, Wim and Toni, Ivan and Uhrig, Peter and Wilson, Anna and Holler, Judith and {\"O}zy{\"u}rek, Asl{\i} and Fern{\'a}ndez, Raquel},
@@ -12,28 +24,13 @@
   url = {https://arxiv.org/pdf/2404.14952.pdf},
   html = {https://arxiv.org/pdf/2404.14952.pdf},
   pdf={https://arxiv.org/pdf/2404.14952.pdf},
-  abstract = {Gestures are inherent to human interaction and often complement speech in face-to-face communication, forming a multimodal
-  communication system. An important task in gesture analysis is detecting a gesture’s beginning and end. Research on automatic
-  gesture detection has primarily focused on visual and kinematic information to detect a limited set of isolated or silent gestures
-  with low variability, neglecting the integration of speech and vision signals to detect gestures that co-occur with speech. This work
-  addresses this gap by focusing on co-speech gesture detection, emphasising the synchrony between speech and co-speech hand
-  gestures. We address three main challenges: the variability of gesture forms, the temporal misalignment between gesture and speech
-  onsets, and differences in sampling rate between modalities. Our approach leverages a sliding window technique to handle variability
-  in gestures’ form and duration, using Mel-Spectrograms for acoustic speech signals and spatiotemporal graphs for visual skeletal
-  data. We investigate extended speech time windows and employ separate backbone models for each modality to address the temporal
-  misalignment and sampling rate differences. We utilize Transformer encoders in cross-modal and early fusion techniques to effectively
-  align and integrate speech and skeletal sequences. The study results show that combining visual and speech information significantly
-  enhances gesture detection performance. Our findings indicate that expanding the speech buffer beyond visual time segments improves
-  performance and that multimodal integration using cross-modal and early fusion techniques outperforms baseline methods using
-  unimodal and late fusion methods. Additionally, we find a correlation between the models’ gesture prediction confidence and low-level
-  speech frequency features potentially associated with gestures. Overall, the study provides a better understanding and detection
-  methods for co-speech gestures, facilitating the analysis of multimodal communication},
+  abstract = {Gestures are inherent to human interaction and often complement speech in face-to-face communication, forming a multimodal communication system. An important task in gesture analysis is detecting a gesture’s beginning and end. Research on automatic gesture detection has primarily focused on visual and kinematic information to detect a limited set of isolated or silent gestures
+  with low variability, neglecting the integration of speech and vision signals to detect gestures that co-occur with speech. This work addresses this gap by focusing on co-speech gesture detection, emphasising the synchrony between speech and co-speech hand gestures. We address three main challenges: the variability of gesture forms, the temporal misalignment between gesture and speech onsets, and differences in sampling rate between modalities. Our approach leverages a sliding window technique to handle variability in gestures’ form and duration, using Mel-Spectrograms for acoustic speech signals and spatiotemporal graphs for visual skeletal data. We investigate extended speech time windows and employ separate backbone models for each modality to address the temporal misalignment and sampling rate differences. We utilize Transformer encoders in cross-modal and early fusion techniques to effectively align and integrate speech and skeletal sequences. The study results show that combining visual and speech information significantly enhances gesture detection performance. Our findings indicate that expanding the speech buffer beyond visual time segments improves performance and that multimodal integration using cross-modal and early fusion techniques outperforms baseline methods using unimodal and late fusion methods. Additionally, we find a correlation between the models’ gesture prediction confidence and low-level speech frequency features potentially associated with gestures. Overall, the study provides a better understanding and detection methods for co-speech gestures, facilitating the analysis of multimodal communication},
   preview={speech_gesture.png},
   pubstate={prepublished},
   selected={true},
   bibtex_show={true},
 }
-
 @inproceedings{Akamine2024sp,
   title={Speakers align both their gestures and words not only to establish but also to maintain reference to create shared labels for novel objects in interaction},
   author={Akamine, Sho and Ghaleb, Esam and Rasenberg, Marlou and Fern{\'a}ndez, Raquel and Meyer, Antje and  {\"O}zy{\"u}rek, Asl{\i} },
@@ -45,6 +42,7 @@
   abstract={When we communicate with others, we often repeat aspects of each other’s communicative behavior such as sentence structures and words. Such behavioral alignment has been mostly studied for speech or text. Yet, language use is mostly multimodal, flexibly using speech and gestures to convey messages. Here, we explore the use of alignment in speech (words) and co-speech gestures (iconic gestures) in a referential communication task aimed at finding labels for novel objects in interaction. In particular, we investigate how people flexibly use lexical and gestural alignment to create shared labels for novel objects and whether alignment in speech and gesture are related over time. The present study shows that interlocutors not only establish shared labels multimodally but also keep aligning in words and iconic gestures over the interaction. We also show that the amount of lexical alignment positively correlates with the amount of gestural alignment over time, suggesting a close relationship between alignment in the vocal and manual modalities.},
   selected={true},
   bibtex_show={true},
+  doi={10.1145/3678957.3685707},
 }
 @inproceedings{ghaleb2024an,
   title={Analysing Cross-Speaker Convergence in Face-to-Face Dialogue through the Lens of Automatically Detected Shared Linguistic Constructions},
@@ -58,6 +56,7 @@
   abstract = {Conversation requires a substantial amount of coordination between dialogue participants, from managing turn taking to negotiating mutual understanding. Part of this coordination effort surfaces as the reuse of linguistic behaviour across speakers, a process often referred to as \textit{alignment}. While the presence of linguistic alignment is well documented in the literature, several questions remain open, including the extent to which patterns of reuse across speakers have an impact on the emergence of labelling conventions for novel referents. In this study, we put forward a methodology for automatically detecting shared lemmatised constructions---expressions with a common lexical core used by both speakers within a dialogue---and apply it to a referential communication corpus where participants aim to identify novel objects for which no established labels exist. Our analyses uncover the usage patterns of shared constructions in interaction and reveal that features such as their frequency and the amount of different constructions used for a referent are associated with the degree of object labelling convergence the participants exhibit after social interaction. More generally, the present study shows that automatically detected shared constructions offer a useful level of analysis to investigate the dynamics of reference negotiation in dialogue.},
   pdf={CogSci24_LinguisticAlignment.pdf},
   bibtex_show={true},
+  url={https://escholarship.org/uc/item/43h970fc},
 }
 
 @inproceedings{ghaleb2023co,

@@ -13,6 +13,66 @@
 #   contents:
 #   -  I am fascinated by how people employ verbal and non-verbal cues in their interactions. This fascination has driven my research on human-centered AI, focusing on recognizing and modeling human behaviors such as emotions, activities, and dialogue coordination. I pay particular attention to non-verbal cues—speech prosody, facial expressions, and gestures—critical for human communication and communication technologies. My research aims to get a deeper understanding of how humans employ communication cues and to make communication technologies embody these processes, which can significantly benefit assistive technologies, thereby improving people’s experiences and lives.
 
+- title: 'Current Work'
+  type: table
+  contents:
+  - title: Postdoctoral Researcher at the Multimodal Language Department at the Max Planck Institute for Psycholinguistics
+    year: 09/24–now
+    location: Amsterdam, The Netherlands
+    description:
+      - 'Advisors: <a href="https://www.asliozyurek.com/" target="_blank"><b>Prof. Dr. Asli Özyürek</b></a>'
+      - 'Research Area: Multimodal communication and behavior analysis, expanding on my previous work on dialogue modeling at the University of Amsterdam.'
+      # use the following link for Raquel: https://staff.fnwi.uva.nl/r.fernandezrovira/
+- title: 'Previous Work'
+  type: table
+  contents:
+    - title: Postdoctoral Researcher at Institute for Logic, Language and Computation, University of Amsterdam
+      year: 09/22–08/24
+      location: Amsterdam, The Netherlands
+      description:
+        - 'Advisors: <a href="https://staff.fnwi.uva.nl/r.fernandezrovira/" target="_blank"><b>Prof. Dr. Raquel Fernández Rovira</b></a>, in collaboration with <a href="https://www.asliozyurek.com/" target="_blank"><b>Prof. Dr. Asli Özyürek</b></a> among others.'
+        - 'Research Area: Face-to-face dialogue modeling focuses on co-speech gesture segmentation and representation and detection and analysis of multimodal (speech and gestural) alignment.'
+
+    - title: Postdoctoral Researcher in the Cognitive Systems Group at the Department of Advanced Computing Sciences, Maastricht University
+      location: the Netherlands
+      year: 03/20–08/22
+      description:
+        - 'Advisors: <a href="https://dke.maastrichtuniversity.nl/stelios.asteriadis/" target="_blank"><b>Dr. Stylianos Asteriadis</b></a>, and <a href="http://www.weiss-gerhard.info/" target="_blank"><b>Prof. Dr. Gerhard Weiss</b></a>'
+        - 'Research Area: Explainable AI for emotion recognition, human behavioral analysis in healthcare, and self-supervised learning for sensor-based human activity recognition.'
+        - 'In this position, I acted as a work package leader for the EU H2020 project: PeRsOnalized Integrated CARE Solution for Elderly facing several short or long-term conditions & enabling a better quality of LIFE (ProCare4Life)'
+    - title: Doctoral Researcher in the Cognitive Systems Group at the Department of Advanced Computing Sciences, Maastricht University
+      year: 03/16–02/20
+      location: Maastricht, The Netherlands
+      description:
+       # Mirela's link: https://www.maastrichtuniversity.nl/mirela.popa
+       # Enrique's link: https://www.maastrichtuniversity.nl/en/researchers/enrique-hortal: https://dke.maastrichtuniversity.nl/enrique.hortal/
+        # Stylianos' link: https://dke.maastrichtuniversity.nl/stelios.asteriadis/
+        # Gerhard's link: http://www.weiss-gerhard.info/
+        - 'Advisors: <a href="https://www.maastrichtuniversity.nl/mirela.popa" target="_blank"><b>Dr. Mirela Popa</b></a>, <a href="https://dke.maastrichtuniversity.nl/enrique.hortal/" target="_blank"><b>Dr. Enrique Hortal</b></a>, <a href="https://dke.maastrichtuniversity.nl/stelios.asteriadis/" target="_blank"><b>Dr. Stylianos Asteriadis</b></a>, and <a href="http://www.weiss-gerhard.info/" target="_blank"><b>Prof. Dr. Gerhard Weiss</b></a>'
+        - 'Research Area: Affective Computing and Machine Learning, focusing on multimodal emotion recognition'
+        - 'IIn this position, I co-represented Maastricht University tasks within the EU H2020 project: Managing Affective-learning THrough Intelligent atoms and Smart InteractionS (MaTHiSiS)'
+
+    - title: Research Assistant in the Smart Interaction and Machine Intelligence Technologies (SiMiT) Lab at Istanbul Technical University (ITU)
+      year: 07/13–02/16
+      location: Turkey
+      description: 
+        # update the link for Hazim using this link: https://web.itu.edu.tr/ekenel/
+        - 'Advisor: <a href="https://web.itu.edu.tr/ekenel/" target="_blank"><b>Prof. Dr. Hazim Kemal Ekenel</b></a>'
+        - 'Research Area: Computer Vision, Human-computer Interaction, Mobile Gaming, with a focus on face recognition and tracking, and retrieval of faces across age'
+        # - 'Research within the European CHIST-ERA project : Collaborative Annotation of multi-MOdal, multI-Lingual and multi-mEdia documents (CAMOMILE)'
+
+    - title:  Research Intern in Computer Vision for Human-Computer Interaction (CVHCI) Lab at Karlsruhe Institute of Technology (KIT)
+      year: 06/14–08/14
+      location: Germany
+      description:
+        - 'Advisor: <a href="https://makarandtapaswi.github.io/" target="_blank"><b>Dr. Makarand Tapaswi</b></a>'
+
+        - 'Research Area: Computer Vision, where I collected and annotated Accio: A Data Set for Face Track Retrieval in Movies Across Age, using Harry Potter movies, and used it for my master thesis.'
+        # use the following link for Makarand: https://makarandtapaswi.github.io/
+        - 'I visited the CVHCI again in the summer 2015, where I conducted the research for my master thesis.'
+        # , and worked on the EU H2020 project: Collaborative Annotation of multi-MOdal, multI-Lingual and multi-mEdia documents (CAMOMILE)'
+
+
 - title: Education
   type: table
   contents:
@@ -40,57 +100,6 @@
     - 'Graduated with Honors'
     - 'Bachelor Thesis: An Energy Efficient Routing Technique and Implementation in WSNs'
 
-- title: 'Current Work'
-  type: table
-  contents:
-  - title: Postdoctoral Researcher at University of Amsterdam
-    year: 09/22–present
-    location: Amsterdam, The Netherlands
-    description:
-      - 'Advisors: <a href="https://staff.fnwi.uva.nl/r.fernandezrovira/" target="_blank"><b>Prof. Dr. Raquel Fernández Rovira</b></a>'
-      - 'Research Area: Face-to-face dialogue modelling'
-      # use the following link for Raquel: https://staff.fnwi.uva.nl/r.fernandezrovira/
-- title: 'Previous Work'
-  type: table
-  contents:
-    - title: Postdoctoral Researcher in the Robots, Agents and Interaction (RAI) Group at Maastricht University
-      location: the Netherlands
-      year: 03/20–08/22
-      description:
-        - 'Advisors: <a href="https://dke.maastrichtuniversity.nl/stelios.asteriadis/" target="_blank"><b>Dr. Stylianos Asteriadis</b></a>, and <a href="http://www.weiss-gerhard.info/" target="_blank"><b>Prof. Dr. Gerhard Weiss</b></a>'
-
-        - 'Research Area: Machine Learning, Explainable AI (XAI), and Human Behavioral Analysis.'
-        # - 'The research is conducted within the EU H2020 project: PeRsOnalized Integrated CARE Solution for Elderly facing several short or long term conditions & enabling a better quality of LIFE (ProCare4Life)'
-    - title: Doctoral Researcher at Maastricht University
-      year: 03/16–02/20
-      location: Maastricht, The Netherlands
-      description:
-       # Mirela's link: https://www.maastrichtuniversity.nl/mirela.popa
-       # Enrique's link: https://www.maastrichtuniversity.nl/en/researchers/enrique-hortal: https://dke.maastrichtuniversity.nl/enrique.hortal/
-        # Stylianos' link: https://dke.maastrichtuniversity.nl/stelios.asteriadis/
-        # Gerhard's link: http://www.weiss-gerhard.info/
-        - 'Advisors: <a href="https://www.maastrichtuniversity.nl/mirela.popa" target="_blank"><b>Dr. Mirela Popa</b></a>, <a href="https://dke.maastrichtuniversity.nl/enrique.hortal/" target="_blank"><b>Dr. Enrique Hortal</b></a>, <a href="https://dke.maastrichtuniversity.nl/stelios.asteriadis/" target="_blank"><b>Dr. Stylianos Asteriadis</b></a>, and <a href="http://www.weiss-gerhard.info/" target="_blank"><b>Prof. Dr. Gerhard Weiss</b></a>'
-        - 'Research Area: Affective Computing, Explainable AI, and Human Behavior Analysis'
-        # - 'The research is carried out within the EU H2020 project: Managing Affective-learning THrough Intelligent atoms and Smart InteractionS (MaTHiSiS)'
-
-    - title:  Research Intern in Computer Vision for Human-Computer Interaction (CVHCI) Lab at Karlsruhe Institute of Technology (KIT)
-      year: 06/14–08/14
-      location: Germany
-      description:
-        - 'Advisor: <a href="https://makarandtapaswi.github.io/" target="_blank"><b>Dr. Makarand Tapaswi</b></a>'
-
-        - 'Research Area: Computer Vision'
-        # use the following link for Makarand: https://makarandtapaswi.github.io/
-        - 'I visited the CVHCI again in the summer 2015, where I conducted the research for my master thesis.'
-        # , and worked on the EU H2020 project: Collaborative Annotation of multi-MOdal, multI-Lingual and multi-mEdia documents (CAMOMILE)'
-    - title: Research Assistant in the Smart Interaction and Machine Intelligence Technologies (SiMiT) Lab at Istanbul Technical University (ITU)
-      year: 07/13–02/16
-      location: Turkey
-      description: 
-        # update the link for Hazim using this link: https://web.itu.edu.tr/ekenel/
-        - 'Advisor: <a href="https://web.itu.edu.tr/ekenel/" target="_blank"><b>Prof. Dr. Hazim Kemal Ekenel</b></a>'
-        - 'Research Area: Computer Vision, Human-computer Interaction, Mobile Gaming.'
-        # - 'Research within the European CHIST-ERA project : Collaborative Annotation of multi-MOdal, multI-Lingual and multi-mEdia documents (CAMOMILE)'
 
 - title:  Honors & Achievements
   type: table

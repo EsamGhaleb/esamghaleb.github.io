@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Bodily Expressed Emotion Recognition
-description: Skeleton-based explainable bodily expressed emotion recognition through graph convolutional networks
+title: Interpretable & Explainable AI
+description: Skeleton-based Explainable Bodily Expressed Emotion Recognition through Graph Convolutional Networks
 img: assets/img/publication_preview/explainable_body.png
 importance: 1
-category: Interpretable & Explainable AI
+category: Projects
+related_publications: ghalebskeleton, maarten2021explainable
 ---
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
