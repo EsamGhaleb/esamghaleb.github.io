@@ -55,7 +55,7 @@ During my studies and work experiences, I have gained teaching experience across
 Throughout my academic career, I have supervised Master's students, Ph.D. candidates, and interns on diverse research topics such as emotion recognition, explainable AI (XAI), and self-supervised learning. These collaborations have often led to publications in prominent venues.
 
 **2020-2021 – Bulat Khaertdinov, Ph.D. Candidate at Maastricht University**
-- **Focus:** [Self-supervised learning for human activity recognition](https://esamghaleb.github.io/projects/HAR_Bulat/)
+- **Focus:** [Self-supervised learning for human activity recognition](https://esamghaleb.github.io/projects/06-HAR_Bulat/)
 - **Publications:** PerCom2021, IJCB21, IEEE Transactions on Biometrics, Behavior, and Identity Science
 
 **2024 – Jacquelin Hana, Master of Data Science at University of Amsterdam**
