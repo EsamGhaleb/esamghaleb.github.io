@@ -50,7 +50,7 @@ During my studies and work experiences, I have gained teaching experience across
 - **Course:** [Content-based Image and Video Retrieval (BLG 544E)](https://ninova.itu.edu.tr/en/courses/institute-of-science-and-technology/2357/blg-544e/), Master of Computer Engineering
 - **Responsibilities:** Assisted in teaching a course focused on image and video retrieval systems, evaluating students projects and providing feedback.
 
-### Supervision Experience
+### Daily Supervision Experience
 
 Throughout my academic career, I have supervised Master's students, Ph.D. candidates, and interns on diverse research topics such as emotion recognition, explainable AI (XAI), and self-supervised learning. These collaborations have often led to publications in prominent venues.
 
