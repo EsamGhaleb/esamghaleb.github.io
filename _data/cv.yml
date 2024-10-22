@@ -16,28 +16,27 @@
 - title: 'Current Work'
   type: table
   contents:
-  - title: Postdoctoral Researcher at the Multimodal Language Department at the Max Planck Institute for Psycholinguistics
-    year: 09/24–now
-    location: Nijmegen, The Netherlands
-    description:
-      - 'Advisors: <a href="https://www.asliozyurek.com/" target="_blank"><b>Prof. Dr. Asli Özyürek</b></a>'
-      - 'Research Area: Multimodal communication and behavior analysis, expanding on my previous work on dialogue modeling at the University of Amsterdam.'
-      # use the following link for Raquel: https://staff.fnwi.uva.nl/r.fernandezrovira/
+    - title: Research Scientist at the Multimodal Language Department led by <a href="https://www.asliozyurek.com/" target="_blank"><b>Prof. Dr. Asli Özyürek</b></a> at the Max Planck Institute for Psycholinguistics
+      year: 09/24–now
+      location: Nijmegen, The Netherlands
+      description:
+        - 'Research Area: Multimodal communication and behavior analysis, expanding on my previous work on dialogue modeling at the University of Amsterdam.'
+        # use the following link for Raquel: https://staff.fnwi.uva.nl/r.fernandezrovira/
 - title: 'Previous Work'
   type: table
   contents:
-    - title: Postdoctoral Researcher at Institute for Logic, Language and Computation, University of Amsterdam
+    - title: Postdoctoral Researcher at the Dialogue Modeling Group led by <a href="https://staff.fnwi.uva.nl/r.fernandezrovira/" target="_blank"><b>Prof. Dr. Raquel Fernández Rovira</b></a> at Institute for Logic, Language and Computation, University of Amsterdam
       year: 09/22–08/24
       location: Amsterdam, The Netherlands
       description:
-        - 'Advisors: <a href="https://staff.fnwi.uva.nl/r.fernandezrovira/" target="_blank"><b>Prof. Dr. Raquel Fernández Rovira</b></a>, in collaboration with <a href="https://www.asliozyurek.com/" target="_blank"><b>Prof. Dr. Asli Özyürek</b></a> among others.'
+        - 'Collaborators: <a href="https://www.asliozyurek.com/" target="_blank"><b>Prof. Dr. Asli Özyürek</b></a> among others.'
         - 'Research Area: Face-to-face dialogue modeling focuses on co-speech gesture segmentation and representation and detection and analysis of multimodal (speech and gestural) alignment.'
 
     - title: Postdoctoral Researcher in the Cognitive Systems Group at the Department of Advanced Computing Sciences, Maastricht University
       location: the Netherlands
       year: 03/20–08/22
       description:
-        - 'Advisors: <a href="https://dke.maastrichtuniversity.nl/stelios.asteriadis/" target="_blank"><b>Dr. Stylianos Asteriadis</b></a> and <a href="http://www.weiss-gerhard.info/" target="_blank"><b>Prof. Dr. Gerhard Weiss</b></a>'
+        - 'Collaborators: <a href="https://dke.maastrichtuniversity.nl/stelios.asteriadis/" target="_blank"><b>Dr. Stylianos Asteriadis</b></a> and <a href="http://www.weiss-gerhard.info/" target="_blank"><b>Prof. Dr. Gerhard Weiss</b></a>'
         - 'Research Area: Explainable AI for emotion recognition, human behavioral analysis in healthcare, and self-supervised learning for sensor-based human activity recognition.'
         - 'In this position, I acted as a work package leader for the EU H2020 project: PeRsOnalized Integrated CARE Solution for Elderly facing several short or long-term conditions & enabling a better quality of LIFE (ProCare4Life)'
     - title: Doctoral Researcher in the Cognitive Systems Group at the Department of Advanced Computing Sciences, Maastricht University
