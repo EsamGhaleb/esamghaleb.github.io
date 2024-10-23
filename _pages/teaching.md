@@ -9,7 +9,7 @@ nav_order: 4
 
 ### Teaching Experience
 
-During my studies and work experiences, I have gained teaching experience across different cultures, disciplines, and institutions.
+<!-- During my studies and work experiences, I have gained teaching experience across different cultures, disciplines, and institutions. -->
 
 #### University of Amsterdam 
 **2023 – Course Co-Coordinator and Lecturer**
@@ -26,7 +26,7 @@ During my studies and work experiences, I have gained teaching experience across
 
 **2023 – Lecturer on Machine Learning for Multimodal Human Behavior**
 - **Program:** Summer School on Practical Approaches to Human Multimodal Behavior at Radboud University
-- **Responsibilities:** Delivered a lecture during a summer school focusing using machine learnin for multimodal behavior data analysis.
+- **Responsibilities:** Delivered an introductory lecture during a summer school focusing using machine learnin for multimodal behavior data analysis.
 
 
 
