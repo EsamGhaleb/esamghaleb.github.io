@@ -24,7 +24,7 @@ During my studies and work experiences, I have gained teaching experience across
 - **Course:** [Natural Language Processing 1](https://datanose.nl/Course/Manual/77344/Natural%20Language%20Processing%201/2019),  Master of AI
 - **Responsibilities:** Focused on the role of co-speech gestures in multimodal communication.
 
-**2023 – Guest Lecturer on Machine Learning for Multimodal Human Behavior**
+**2023 – Lecturer on Machine Learning for Multimodal Human Behavior**
 - **Program:** Summer School on Practical Approaches to Human Multimodal Behavior at Radboud University
 - **Responsibilities:** Delivered a lecture during a summer school focusing using machine learnin for multimodal behavior data analysis.
 
