@@ -1,9 +1,47 @@
 ---
 ---
-
-
 @string{aps = {American Physical Society,}}
 % http://www.cs.vassar.edu/people/priestdo/tips/bibtex
+@inproceedings{liu202SemGes,
+  title={ SemGes: Semantics-aware Co-Speech Gesture Generation using Semantic Coherence and Relevance Learning },
+  author={Liu, Lanmiao, and Ghaleb, Esam and {\"O}zy{\"u}rek, Asl{\i}, and Yumak, Zerrin},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+  year={2025},
+  month={October},
+  publisher = {CVF/IEEE},
+  address = {Honolulu, Hawai'i, USA},
+  url = {https://semgesture.github.io/},
+  numpages = {10},
+  keywords = {Gesture generation, semantics, generative AI},
+  location = {Honolulu, Hawai'i, USA},
+  series = {ICCV '25},
+  preview={semges.png},
+  abstract = {Creating a virtual avatar with semantically coherent gestures that are aligned with speech is a challenging task. Existing gesture generation research mainly focused on generating rhythmic beat gestures, neglecting the semantic context of the gestures. In this paper, we propose a novel approach for semantic grounding in co-speech gesture generation that integrates semantic information at both fine-grained and global levels. Our approach starts with learning the motion prior through a vector-quantized variational autoencoder. Built on this model, a second-stage module is applied to automatically generate gestures from speech, text-based semantics and speaker identity that ensures consistency between the semantic relevance of generated gestures and co-occurring speech semantics through semantic coherence and relevance modules. Experimental results demonstrate that our approach enhances the realism and coherence of semantic gestures. Extensive experiments and user studies show that our method outperforms state-of-the-art approaches across two benchmarks in co-speech gesture generation in both objective and subjective metrics. The qualitative results of our model can be viewed at \href{https://semgesture.github.io/}{https://semgesture.github.io/}. Our code, dataset and pre-trained models will be shared upon acceptance.},
+  selected={true},
+  bibtex_show={true},
+  preview={firstpage_iccv.png},
+}
+
+@inproceedings{ghaleb-etal-acl-2025, 
+  author={Ghaleb, Esam and Khaertdinov, Bulat and {\"O}zy{\"u}rek, Asl{\i} and Fern{\'a}ndez, Raquel},
+  title={I see what you mean: Co-Speech Gestures for Reference Resolution in Multimodal Dialogue},
+  booktitle={Proceedings of the of the 63rd Conference of the Association for Computational Linguistics (ACL Findings)},
+  publisher={Association for Computational Linguistics},
+  address={Cedarville, Ohio, 45314, United States},
+  month={July},
+  year={2025},
+  note={To appear.},
+  location={Veinna, Austria},
+  url={https://arxiv.org/abs/2503.00071},
+  url_github={https://github.com/EsamGhaleb/MultimodalReferenceResolution},
+  abstract={In face-to-face interaction, we use multiple modalities, including speech and gestures, to communicate information and resolve references to objects. However, how representational co-speech gestures refer to objects remains understudied from a computational perspective. In this work, we address this gap by introducing a multimodal reference resolution task centred on representational gestures, while simultaneously tackling the challenge of learning robust gesture embeddings. We propose a self-supervised pre-training approach to gesture representation learning that grounds body movements in spoken language. Our experiments show that the learned embeddings align with expert annotations and have significant predictive power. Moreover, reference resolution accuracy further improves when (1) using multimodal gesture representations, even when speech is unavailable at inference time, and (2) leveraging dialogue history. Overall, our findings highlight the complementary roles of gesture and speech in reference resolution, offering a step towards more naturalistic models of human-machine interaction.},
+  selected={true},
+  bibtex_show={true},
+  preview={gesture_reference_resolution.png},
+  pdf={_ACL_2025__I_see_what_you_mean.pdf},
+}
+
+
 @inproceedings{Ghaleb2024le,
   title={Learning Co-Speech Gesture Representations in Dialogue through Contrastive Learning: An Intrinsic Evaluation},
   author={Ghaleb, Esam and Khaertdinov, Bulat and Pouw, Wim and Rasenberg, Marlou and Holler, Judith and {\"O}zy{\"u}rek, Asl{\i} and Fern{\'a}ndez, Raquel},
@@ -39,8 +77,8 @@
   abstract = {Gestures are inherent to human interaction and often complement speech in face-to-face communication, forming a multimodal communication system. An important task in gesture analysis is detecting a gesture’s beginning and end. Research on automatic gesture detection has primarily focused on visual and kinematic information to detect a limited set of isolated or silent gestures
   with low variability, neglecting the integration of speech and vision signals to detect gestures that co-occur with speech. This work addresses this gap by focusing on co-speech gesture detection, emphasising the synchrony between speech and co-speech hand gestures. We address three main challenges: the variability of gesture forms, the temporal misalignment between gesture and speech onsets, and differences in sampling rate between modalities. Our approach leverages a sliding window technique to handle variability in gestures’ form and duration, using Mel-Spectrograms for acoustic speech signals and spatiotemporal graphs for visual skeletal data. We investigate extended speech time windows and employ separate backbone models for each modality to address the temporal misalignment and sampling rate differences. We utilize Transformer encoders in cross-modal and early fusion techniques to effectively align and integrate speech and skeletal sequences. The study results show that combining visual and speech information significantly enhances gesture detection performance. Our findings indicate that expanding the speech buffer beyond visual time segments improves performance and that multimodal integration using cross-modal and early fusion techniques outperforms baseline methods using unimodal and late fusion methods. Additionally, we find a correlation between the models’ gesture prediction confidence and low-level speech frequency features potentially associated with gestures. Overall, the study provides a better understanding and detection methods for co-speech gestures, facilitating the analysis of multimodal communication},
   preview={speech_gesture.png},
-  pubstate={prepublished},
-  selected={true},
+  pubstate={pre-print},
+  selected={false},
   bibtex_show={true},
 }
 @inproceedings{Akamine2024sp,

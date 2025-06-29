@@ -11,6 +11,14 @@ nav_order: 4
 
 <!-- During my studies and work experiences, I have gained teaching experience across different cultures, disciplines, and institutions. -->
 
+#### Max Planck Institute for Psycholinguistics
+**2024 – Course Coordinator and Lecturer**
+- **Course:** Programming for Research
+- **Program:** [International Max Planck Research School (IMPRS) for Language Sciences](https://www.mpi.nl/imprs)
+
+**2025 – Co-plenary lecture and two-days hands-on workshop on multimodal interaction with Raquel Fernández**
+- **Event:** [MEDAL Summer School in Computational Modelling](https://medal.ut.ee/event/medal-summer-school-in-computational-linguistics/)
+
 #### University of Amsterdam 
 **2023 – Course Co-Coordinator and Lecturer**
 - **Course:** [Natural Language Models and Interfaces (NTMI)](https://studiegids.uva.nl/xmlpages/page/2022-2023/zoek-vak/vak/98500), Bachelor of AI
@@ -27,8 +35,6 @@ nav_order: 4
 **2023 – Lecturer on Machine Learning for Multimodal Human Behavior**
 - **Program:** Summer School on Practical Approaches to Human Multimodal Behavior at Radboud University
 - **Responsibilities:** Delivered an introductory lecture during a summer school focusing using machine learnin for multimodal behavior data analysis.
-
-
 
 #### Maastricht University 
 

@@ -50,7 +50,7 @@ navbar_fixed: true
 footer_fixed: true
 
 # Dimensions
-max_width: 900px
+max_width: 800px
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -68,7 +68,6 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: esamghaleb # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: dresamghaleb # your Twitter handle
 linkedin_username: esamghaleb # your LinkedIn user name
 scholar_userid: TqP9GTsAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
@@ -187,7 +186,6 @@ plugins:
   - jekyll/scholar
   - jekyll-sitemap
   - jekyll-target-blank
-  - jekyll-twitter-plugin
   - jemoji
 
 # Sitemap settings
