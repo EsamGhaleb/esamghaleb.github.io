@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Preprint on the Visual Iconicity Challenge: Evaluating Vision-Language Models on Sign Language Form–Meaning Mapping
+title: Preprint on the Visual Iconicity Challenge
 permalink: /news/VisualIconicity/
 date: 2025-10-09 07:59:00-0400
 inline: false
