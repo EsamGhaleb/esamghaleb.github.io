@@ -1,6 +1,7 @@
 ---
 layout: post
 title: PhD Opportunities Available at Max Planck Institute for Psycholinguistics via MP-AIX
+permalink: /news/PhPMPI/
 date: 2025-10-13 07:59:00-0400
 inline: false
 ---
