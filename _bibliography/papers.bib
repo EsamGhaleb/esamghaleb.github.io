@@ -2,6 +2,21 @@
 ---
 @string{aps = {American Physical Society,}}
 % http://www.cs.vassar.edu/people/priestdo/tips/bibtex
+@inproceedings{keles2025visual,
+  title={The Visual Iconicity Challenge: Evaluating Vision-Language Models on Sign Language Form-Meaning Mapping},
+  authors={Keleş, Onur and {\"O}zy{\"u}rek, Asl{\i} and Ortega, Gerardo and G{\"o}kg{\"o}z, Kadir and Ghaleb, Esam},
+  booktitle={Pre-print at arXiv},
+  year={2025},
+  month={October},
+  publisher = {arXiv},
+  url = {https://arxiv.org/abs/2510.08482},
+  preview={visual_iconicity.png},
+  keywords = {Vision-language models, sign language, iconicity, visual grounding, multimodal learning},
+  abstract={Iconicity, the resemblance between linguistic form and meaning, is pervasive in signed languages, offering a natural testbed for visual grounding. For vision-language models (VLMs), the challenge is to recover such essential mappings from dynamic human motion rather than static context. We introduce the Visual Iconicity Challenge, a novel video-based benchmark that adapts psycholinguistic measures to evaluate VLMs on three tasks: (i) phonological sign-form prediction (e.g., handshape, location), (ii) transparency (inferring meaning from visual form), and (iii) graded iconicity ratings. We assess 13 state-of-the-art VLMs in zero- and few-shot settings on Sign Language of the Netherlands and compare them to human baselines. On phonological form prediction, VLMs recover some handshape and location detail but remain below human performance; on transparency, they are far from human baselines; and only top models correlate moderately with human iconicity ratings. Interestingly, models with stronger phonological form prediction correlate better with human iconicity judgment, indicating shared sensitivity to visually grounded structure. Our findings validate these diagnostic tasks and motivate human-centric signals and embodied learning methods for modelling iconicity and improving visual grounding in multimodal models.},
+  selected={true},
+  bibtex_show={true},
+  pdf={Visual_Iconicity_Challenge.pdf},
+}
 @inproceedings{liu202SemGes,
   title={ SemGes: Semantics-aware Co-Speech Gesture Generation using Semantic Coherence and Relevance Learning },
   author={Liu, Lanmiao, and Ghaleb, Esam and {\"O}zy{\"u}rek, Asl{\i}, and Yumak, Zerrin},
@@ -20,6 +35,7 @@
   selected={true},
   bibtex_show={true},
   preview={firstpage_iccv.png},
+  pdf={SemGes.pdf},
 }
 @inproceedings{bavaresco2024llms,
   title={Llms instead of human judges? a large scale empirical study across 20 nlp evaluation tasks},
@@ -55,7 +71,7 @@
   selected={true},
   bibtex_show={true},
   preview={gesture_reference_resolution.png},
-  pdf={_ACL_2025__I_see_what_you_mean.pdf},
+  pdf={ACL_2025_I_see_what_you_mean.pdf},
 }
 
 
@@ -79,7 +95,7 @@
   series = {ICMI '24},
   preview={SSL-gestures-dialogues.png},
   abstract={In face-to-face dialogues, the form-meaning relationship of co-speech gestures varies depending on contextual factors such as what the gestures refer to and the individual characteristics of speakers. These factors make co-speech gesture representation learning challenging. How can we learn meaningful gestures representations considering gestures' variability and relationship with speech? This paper tackles this challenge by employing self-supervised contrastive learning techniques to learn gesture representations from skeletal and speech information. We propose an approach that includes both unimodal and multimodal pre-training to ground gesture representations in co-occurring speech. For training, we utilize a face-to-face dialogue dataset rich with representational iconic gestures. We conduct thorough intrinsic evaluations of the learned representations through comparison with human-annotated pairwise gesture similarity. Moreover, we perform a diagnostic probing analysis to assess the possibility of recovering interpretable gesture features from the learned representations. Our results show a significant positive correlation with human-annotated gesture similarity and reveal that the similarity between the learned representations is consistent with well-motivated patterns related to the dynamics of dialogue interaction. Moreover, our findings demonstrate that several features concerning the form of gestures can be recovered from the latent representations. Overall, this study shows that multimodal contrastive learning is a promising approach for learning gesture representations, which opens the door to using such representations in larger-scale gesture analysis studies.},
-  selected={true},
+  selected={false},
   bibtex_show={true},
   pdf={Ghaleb_Analysing_ICMI2024.pdf},
 }
