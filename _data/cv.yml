@@ -7,7 +7,6 @@
     value: dr.esam.ghaleb@gmail.com
   - name: Languages
     value: Arabic (native), English (fluent), Turkish (fluent); Dutch (upper-intermediate-B2)
-
 # - title: Research Interest
 #   type: list
 #   contents:
@@ -17,6 +16,7 @@
   type: table
   contents:
     - title: Research Staff in the Multimodal Language Department at the Max Planck Institute for Psycholinguistics
+    - title: Research Staff in the Multimodal Language Department at the Max Planck Institute for Psycholinguistics
       year: 09/24–now
       location: Nijmegen, The Netherlands
       description:
@@ -25,6 +25,7 @@
 - title: 'Previous Work'
   type: table
   contents:
+    - title: Postdoctoral Researcher in the Dialogue Modeling Group at Institute for Logic, Language and Computation, University of Amsterdam
     - title: Postdoctoral Researcher in the Dialogue Modeling Group at Institute for Logic, Language and Computation, University of Amsterdam
       year: 09/22–08/24
       location: Amsterdam, The Netherlands
@@ -46,7 +47,7 @@
         # Stylianos' link: https://dke.maastrichtuniversity.nl/stelios.asteriadis/
         # Gerhard's link: http://www.weiss-gerhard.info/
         - 'Research Area: Affective Computing and Machine Learning, focusing on multimodal emotion recognition'
-        - 'IIn this position, I co-represented Maastricht University tasks within the EU H2020 project: Managing Affective-learning THrough Intelligent atoms and Smart InteractionS (MaTHiSiS)'
+        - 'In this position, I co-represented Maastricht University tasks within the EU H2020 project: Managing Affective-learning THrough Intelligent atoms and Smart InteractionS (MaTHiSiS)'
 
     - title: Research Assistant in the Smart Interaction and Machine Intelligence Technologies (SiMiT) Lab at Istanbul Technical University (ITU)
       year: 07/13–02/16
