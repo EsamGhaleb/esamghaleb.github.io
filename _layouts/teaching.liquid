@@ -1,0 +1,314 @@
+---
+layout: page
+---
+
+{% assign data = site.data.teaching %}
+
+<div class="teaching-page">
+  <aside class="teaching-sidebar" aria-label="Teaching navigation">
+    <div class="teaching-sidebar-inner">
+      <div class="teaching-sidebar-card">
+        <p class="teaching-sidebar-label">On this page</p>
+
+        <nav class="teaching-local-nav" aria-label="Section navigation">
+          {% for section in data.sections %}
+            {% assign short_title = section.title %}
+            {% case section.id %}
+              {% when 'formal' %}
+                {% assign short_title = 'Courses' %}
+              {% when 'invited' %}
+                {% assign short_title = 'Guest lectures' %}
+              {% when 'supervision' %}
+                {% assign short_title = 'Supervision' %}
+            {% endcase %}
+
+            <a class="teaching-local-nav-link" href="#{{ section.id }}">
+              {{ short_title }}
+            </a>
+          {% endfor %}
+        </nav>
+
+        <div class="teaching-stats" aria-label="Teaching summary">
+          <a class="teaching-stat" href="#formal">
+            <span class="num">{{ data.stats.formal }}</span>
+            <span class="label">Courses</span>
+          </a>
+
+          <a class="teaching-stat" href="#invited">
+            <span class="num">{{ data.stats.invited }}</span>
+            <span class="label">Guest lectures</span>
+          </a>
+
+          <a class="teaching-stat teaching-stat--wide" href="#supervision">
+            <span class="num">{{ data.stats.supervision }}</span>
+            <span class="label">Supervision</span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </aside>
+
+  <div class="teaching-content">
+    {% for section in data.sections %}
+      <section id="{{ section.id }}" class="teaching-section">
+        <header class="teaching-section-header">
+          <h2>{{ section.title }}</h2>
+          {% if section.intro %}
+            <p>{{ section.intro }}</p>
+          {% endif %}
+        </header>
+
+        {% if section.items %}
+          <div class="teaching-cards">
+            {% assign items = section.items | sort: "year" | reverse %}
+            {% for item in items %}
+              {% capture display_year %}{{ item.year_label | default: item.year }}{% endcapture %}
+              {% assign display_year = display_year | strip %}
+
+              <article class="teaching-card">
+                {% if display_year contains '–' %}
+                  {% assign year_parts = display_year | split: '–' %}
+                  <div class="teaching-year teaching-year--range" aria-label="{{ display_year }}">
+                    <span class="year-part year-part--start">{{ year_parts[0] }}—</span>
+                    <span class="year-part year-part--end">{{ year_parts[1] }}</span>
+                  </div>
+                {% elsif display_year contains '-' %}
+                  {% assign year_parts = display_year | split: '-' %}
+                  <div class="teaching-year teaching-year--range" aria-label="{{ display_year }}">
+                    <span class="year-part year-part--start">{{ year_parts[0] }}—</span>
+                    <span class="year-part year-part--end">{{ year_parts[1] }}</span>
+                  </div>
+                {% else %}
+                  <div class="teaching-year" aria-label="{{ display_year }}">
+                    <span class="year-part">{{ display_year }}</span>
+                  </div>
+                {% endif %}
+
+                <div class="teaching-body">
+                  <div class="teaching-topline">
+                    <span class="teaching-role">{{ item.role }}</span>
+                    <span class="teaching-inst">{{ item.institution }}</span>
+                  </div>
+
+                  <h3 class="teaching-title">
+                    {% if item.url %}
+                      <a href="{{ item.url }}">{{ item.title }}</a>
+                    {% else %}
+                      {{ item.title }}
+                    {% endif %}
+                  </h3>
+
+                  {% if item.meta %}
+                    <dl class="teaching-meta">
+                      {% for row in item.meta %}
+                        <div>
+                          <dt>{{ row.label }}</dt>
+                          <dd>
+                            {% if row.url %}
+                              <a href="{{ row.url }}">{{ row.value }}</a>
+                            {% else %}
+                              {{ row.value }}
+                            {% endif %}
+                          </dd>
+                        </div>
+                      {% endfor %}
+                    </dl>
+                  {% endif %}
+                </div>
+              </article>
+            {% endfor %}
+          </div>
+        {% endif %}
+
+        {% if section.groups %}
+          {% for group in section.groups %}
+            <div class="teaching-group">
+              <h3 class="teaching-group-title">{{ group.title }}</h3>
+
+              <div class="teaching-cards">
+                {% assign items = group.items | sort: "year" | reverse %}
+                {% for item in items %}
+                  {% capture display_year %}{{ item.year_label | default: item.year }}{% endcapture %}
+                  {% assign display_year = display_year | strip %}
+
+                  <article class="teaching-card">
+                    {% if display_year contains '–' %}
+                      {% assign year_parts = display_year | split: '–' %}
+                      <div class="teaching-year teaching-year--range" aria-label="{{ display_year }}">
+                        <span class="year-part year-part--start">{{ year_parts[0] }}—</span>
+                        <span class="year-part year-part--end">{{ year_parts[1] }}</span>
+                      </div>
+                    {% elsif display_year contains '-' %}
+                      {% assign year_parts = display_year | split: '-' %}
+                      <div class="teaching-year teaching-year--range" aria-label="{{ display_year }}">
+                        <span class="year-part year-part--start">{{ year_parts[0] }}—</span>
+                        <span class="year-part year-part--end">{{ year_parts[1] }}</span>
+                      </div>
+                    {% else %}
+                      <div class="teaching-year" aria-label="{{ display_year }}">
+                        <span class="year-part">{{ display_year }}</span>
+                      </div>
+                    {% endif %}
+
+                    <div class="teaching-body">
+                      <div class="teaching-topline">
+                        <span class="teaching-role">{{ item.role }}</span>
+                        <span class="teaching-inst">{{ item.institution }}</span>
+                      </div>
+
+                      <h4 class="teaching-title">{{ item.title }}</h4>
+
+                      {% if item.meta %}
+                        <dl class="teaching-meta">
+                          {% for row in item.meta %}
+                            <div>
+                              <dt>{{ row.label }}</dt>
+                              <dd>
+                                {% if row.url %}
+                                  <a href="{{ row.url }}">{{ row.value }}</a>
+                                {% else %}
+                                  {{ row.value }}
+                                {% endif %}
+                              </dd>
+                            </div>
+                          {% endfor %}
+                        </dl>
+                      {% endif %}
+                    </div>
+                  </article>
+                {% endfor %}
+              </div>
+            </div>
+          {% endfor %}
+        {% endif %}
+      </section>
+    {% endfor %}
+  </div>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const page = document.querySelector('.teaching-page');
+    const sidebar = document.querySelector('.teaching-sidebar');
+    const sidebarInner = document.querySelector('.teaching-sidebar-inner');
+    const navLinks = Array.from(document.querySelectorAll('.teaching-local-nav-link'));
+    const statLinks = Array.from(document.querySelectorAll('.teaching-stat'));
+    const allLinks = [...navLinks, ...statLinks];
+    const sections = Array.from(document.querySelectorAll('.teaching-section'));
+
+    if (!page || !sidebar || !sidebarInner || !sections.length) return;
+
+    function getTopOffset() {
+      const rootStyle = getComputedStyle(document.documentElement);
+      const navbarHeight = parseFloat(rootStyle.getPropertyValue('--navbar-height')) || 80;
+      return navbarHeight + 16;
+    }
+
+    function clearFloatingState() {
+      sidebarInner.classList.remove('is-floating', 'is-bottom');
+      sidebarInner.style.removeProperty('width');
+      sidebarInner.style.removeProperty('left');
+      sidebarInner.style.removeProperty('top');
+    }
+
+    function updateFloatingSidebar() {
+      if (window.innerWidth <= 980) {
+        clearFloatingState();
+        return;
+      }
+
+      const topOffset = getTopOffset();
+      const pageRect = page.getBoundingClientRect();
+      const sidebarRect = sidebar.getBoundingClientRect();
+      const innerHeight = sidebarInner.offsetHeight;
+
+      const pageTop = window.scrollY + pageRect.top;
+      const pageBottom = pageTop + page.offsetHeight;
+      const sidebarTop = window.scrollY + sidebarRect.top;
+
+      const start = sidebarTop - topOffset;
+      const stop = pageBottom - innerHeight - topOffset;
+      const currentY = window.scrollY;
+
+      if (currentY <= start) {
+        clearFloatingState();
+        return;
+      }
+
+      if (currentY >= stop) {
+        sidebarInner.classList.remove('is-floating');
+        sidebarInner.classList.add('is-bottom');
+        sidebarInner.style.removeProperty('width');
+        sidebarInner.style.removeProperty('left');
+        sidebarInner.style.removeProperty('top');
+        return;
+      }
+
+      sidebarInner.classList.remove('is-bottom');
+      sidebarInner.classList.add('is-floating');
+      sidebarInner.style.width = `${sidebarRect.width}px`;
+      sidebarInner.style.left = `${sidebarRect.left}px`;
+      sidebarInner.style.top = `${topOffset}px`;
+    }
+
+    function setActive(id) {
+      allLinks.forEach(link => {
+        const isActive = link.getAttribute('href') === `#${id}`;
+        link.classList.toggle('is-active', isActive);
+        if (isActive) {
+          link.setAttribute('aria-current', 'true');
+        } else {
+          link.removeAttribute('aria-current');
+        }
+      });
+    }
+
+    const observer = new IntersectionObserver(
+      entries => {
+        const visible = entries
+          .filter(entry => entry.isIntersecting)
+          .sort((a, b) => b.intersectionRatio - a.intersectionRatio);
+
+        if (visible.length) {
+          setActive(visible[0].target.id);
+        }
+      },
+      {
+        root: null,
+        rootMargin: '-18% 0px -58% 0px',
+        threshold: [0.15, 0.3, 0.5, 0.75]
+      }
+    );
+
+    sections.forEach(section => observer.observe(section));
+
+    if (window.location.hash) {
+      setActive(window.location.hash.replace('#', ''));
+    } else {
+      setActive(sections[0].id);
+    }
+
+    allLinks.forEach(link => {
+      link.addEventListener('click', function () {
+        const id = this.getAttribute('href').replace('#', '');
+        setActive(id);
+      });
+    });
+
+    let ticking = false;
+    function requestUpdate() {
+      if (!ticking) {
+        window.requestAnimationFrame(() => {
+          updateFloatingSidebar();
+          ticking = false;
+        });
+        ticking = true;
+      }
+    }
+
+    updateFloatingSidebar();
+    window.addEventListener('scroll', requestUpdate, { passive: true });
+    window.addEventListener('resize', requestUpdate);
+    window.addEventListener('load', requestUpdate);
+  });
+</script>

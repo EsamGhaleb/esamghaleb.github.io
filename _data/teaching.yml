@@ -1,0 +1,243 @@
+stats:
+  formal: 6
+  invited: 6
+  supervision: 12
+
+sections:
+  - id: formal
+    title: Formal teaching
+    intro: Course coordination, lecturing, and tutoring.
+    items:
+      - year: 2025
+        role: Course Coordinator and Lecturer
+        institution: MPI for Psycholinguistics
+        title: Programming for Research
+        meta:
+          - label: Programme
+            value: International Max Planck Research School (IMPRS)
+          - label: Audience
+            value: Graduate students and research scientists in the behavioural sciences
+
+      - year: 2023
+        role: Course Co-coordinator and Lecturer
+        institution: University of Amsterdam
+        title: Natural Language Models and Interfaces
+        meta:
+          - label: Programme
+            value: Obligatory course in the Bachelor of AI
+
+      - year: 2022
+        role: Tutor
+        institution: Maastricht University
+        title: Research Projects Artificial Intelligence 2
+        meta:
+          - label: Programme
+            value: Obligatory course in the Bachelor of Data Science and Artificial Intelligence
+
+      - year: 2019
+        year_label: 2017–2019
+        role: Head Teaching Assistant and Tutor
+        institution: Maastricht University
+        title: Computer Vision
+        meta:
+          - label: Programme
+            value: Elective course in the Master of AI
+
+      - year: 2016
+        role: Teaching Assistant
+        institution: Maastricht University
+        title: Programming
+        meta:
+          - label: Programme
+            value: Elective course in University College Maastricht
+
+      - year: 2015
+        role: Teaching Assistant
+        institution: Istanbul Technical University
+        title: Content-based Image and Video Retrieval
+        meta:
+          - label: Programme
+            value: Elective course in the Master of Computer Engineering
+
+  - id: invited
+    title: Guest lectures, workshops, and summer schools
+    intro: Invited teaching on multimodal interaction, gesture, dialogue, and multimodal behaviour.
+    items:
+      - year: 2026
+        role: Guest Lecturer
+        institution: University of Amsterdam
+        title: Semantic Gesture Generation
+        meta:
+          - label: Course
+            value: Speech and Gesture Recognition
+          - label: Programme
+            value: Elective course in the Bachelor of AI
+
+      - year: 2025
+        role: Guest Lecturer
+        institution: Radboud University
+        title: Modelling multimodal interaction from representation to generation in face-to-face communication
+        meta:
+          - label: Courses
+            value: Conversational AI and Human Robot Interaction
+          - label: Programme
+            value: Master courses open to several programmes, including Data Science, Artificial Intelligence, and Computer Science
+
+      - year: 2025
+        role: Plenary lecture and two-day hands-on workshop
+        institution: MEDAL Summer School in Computational Modelling
+        title: Multimodal interaction
+        meta:
+          - label: With
+            value: Raquel Fernández
+
+      - year: 2024
+        role: Guest Lecturer
+        institution: University of Amsterdam
+        title: Gesture Modelling in Face-to-Face Dialogues
+        meta:
+          - label: Course
+            value: Natural Language Processing 2
+          - label: Programme
+            value: Elective course in the Master of AI
+
+      - year: 2023
+        role: Lecturer
+        institution: Radboud University
+        title: Machine Learning for Multimodal Human Behavior
+        meta:
+          - label: Programme
+            value: Summer School on Practical Approaches to Human Multimodal Behaviour
+
+      - year: 2023
+        role: Guest Lecturer
+        institution: University of Amsterdam
+        title: Multimodal Communication
+        meta:
+          - label: Course
+            value: Natural Language Processing 1
+          - label: Programme
+            value: Obligatory course in the Master of AI
+
+  - id: supervision
+    title: Supervision
+    intro: Daily supervision across PhD, MSc, BSc, and internships.
+    groups:
+      - title: PhD candidates
+        items:
+          - year: 2025
+            year_label: 2025–present
+            role: Supervisor
+            institution: MPI for Psycholinguistics and Boğaziçi University
+            title: Onur Keleş
+            meta:
+              - label: Focus
+                value: Iconicity perception and production in humans and machines
+
+          - year: 2024
+            year_label: 2024–present
+            role: Co-supervisor
+            institution: MPI for Psycholinguistics
+            title: Lanmiao Liu
+            meta:
+              - label: Focus
+                value: Semantically rich gesture generation in interactive and multi-modal environments
+              - label: Collaboration
+                value: Dr Zerrin Yumak, Utrecht University
+
+          - year: 2021
+            year_label: 2020–2021
+            role: Supervisor
+            institution: Maastricht University
+            title: Bulat Khaertdinov
+            meta:
+              - label: Focus
+                value: Self-supervised learning for human activity recognition
+              - label: Publications
+                value: PerCom 2021, IJCB 2021, and IEEE Transactions on Biometrics, Behaviour, and Identity Science
+
+      - title: MSc students
+        items:
+          - year: 2025
+            year_label: 2025–present
+            role: Supervisor
+            institution: University of Amsterdam
+            title: David Werkhoven
+            meta:
+              - label: Topic
+                value: Gesture generation in face-to-face interactions
+
+          - year: 2025
+            year_label: 2025–present
+            role: Supervisor
+            institution: Utrecht University
+            title: Nick Milkin
+            meta:
+              - label: Topic
+                value: Semantic gesture generation
+
+          - year: 2024
+            role: Supervisor
+            institution: University of Amsterdam
+            title: Jacquelin Hana
+            meta:
+              - label: Topic
+                value: Reference resolution through patterns of speech and gestures in face-to-face dialogues
+
+          - year: 2021
+            role: Supervisor
+            institution: Maastricht University
+            title: Andre Mertens
+            meta:
+              - label: Thesis
+                value: Explainable and interpretable features of emotion in human body expression
+              - label: Published
+                value: BNAIC/BeneLearn 2021
+
+          - year: 2020
+            role: Supervisor
+            institution: Maastricht University
+            title: Jan Lucas
+            meta:
+              - label: Thesis
+                value: Deep, dimensional, and multimodal emotion recognition using attention mechanisms
+              - label: Published
+                value: BNAIC/BeneLearn 2020
+
+          - year: 2017
+            role: Supervisor
+            institution: Maastricht University
+            title: Justus Schwan
+            meta:
+              - label: Thesis
+                value: Automatic recognition of screen worker’s engagement
+
+      - title: BSc students
+        items:
+          - year: 2025
+            role: Supervisor
+            institution: Radboud University
+            title: Ferdinand Paar
+            meta:
+              - label: Thesis
+                value: Object-aware gesture generation
+
+          - year: 2017
+            role: Supervisor
+            institution: Maastricht University
+            title: Evangelos Trikoupis
+            meta:
+              - label: Thesis
+                value: Adaptation of collaborative learning games for engagement maximization
+
+      - title: Internships
+        items:
+          - year: 2017
+            role: Supervisor
+            institution: Maastricht University
+            title: Justus Schwan
+            meta:
+              - label: Focus
+                value: Emotion recognition
+              - label: Published
+                value: Semantic and Social Media Adaptation and Personalization (SMAP)
