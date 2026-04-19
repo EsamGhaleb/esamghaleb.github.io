@@ -107,170 +107,6 @@ cv:
           - "Graduated with honors."
           - "Bachelor's thesis: An Energy-Efficient Routing Technique and Implementation in Wireless Sensor Networks"
 
-    "Teaching Experience":
-      - company: "University of Amsterdam"
-        position: "Guest Lecturer"
-        start_date: "2026"
-        end_date: "2026"
-        summary: "Semantic Gesture Generation"
-        highlights:
-          - "Course: Speech and Gesture Recognition"
-          - "Program: Elective Course in the Bachelor of AI"
-
-      - company: "Radboud University"
-        position: "Guest Lecturer"
-        start_date: "2025"
-        end_date: "2025"
-        summary: "Modelling multimodal interaction from representation to generation in face-to-face communication"
-        highlights:
-          - "Courses: Conversational AI and Human Robot Interaction"
-          - "Program: Master courses open to several programs, including Data Science, Artificial Intelligence, and Computer Science"
-
-      - company: "MPI for Psycholinguistics"
-        position: "Course Coordinator and Lecturer"
-        start_date: "2025"
-        end_date: "2025"
-        summary: "Programming for Research"
-        highlights:
-          - "Program: International Max Planck Research Schools (IMPRS)"
-          - "Tailored for graduate students and research scientists in behavioural sciences."
-
-      - company: "MEDAL Summer School in Computational Modelling"
-        position: "Plenary lecture and two-day hands-on workshop"
-        start_date: "2025"
-        end_date: "2025"
-        summary: "Multimodal interaction"
-        highlights:
-          - "With Raquel Fernández"
-
-      - company: "University of Amsterdam"
-        position: "Guest Lecturer"
-        start_date: "2024"
-        end_date: "2024"
-        summary: "Gesture Modelling in Face-to-Face Dialogues"
-        highlights:
-          - "Course: Natural Language Processing 2"
-          - "Program: Elective Course in the Master of AI"
-
-      - company: "University of Amsterdam"
-        position: "Course Co-coordinator and Lecturer"
-        start_date: "2023"
-        end_date: "2023"
-        summary: "Natural Language Models and Interfaces"
-        highlights:
-          - "Program: Obligatory Course in the Bachelor of AI"
-
-      - company: "Radboud University"
-        position: "Lecturer"
-        start_date: "2023"
-        end_date: "2023"
-        summary: "Machine Learning for Multimodal Human Behavior"
-        highlights:
-          - "Program: The Summer School on Practical Approaches to Human Multimodal Behaviour: From Acquiring and Aligning Data to Quantifying Patterns"
-
-      - company: "University of Amsterdam"
-        position: "Guest Lecturer"
-        start_date: "2023"
-        end_date: "2023"
-        summary: "Multimodal Communication"
-        highlights:
-          - "Course: Natural Language Processing 1"
-          - "Program: Obligatory Course in the Master of AI"
-
-      - company: "Maastricht University"
-        position: "Tutor"
-        start_date: "2022"
-        end_date: "2022"
-        summary: "Research Projects Artificial Intelligence 2"
-        highlights:
-          - "Program: Obligatory Course in the Bachelor of Data Science and Artificial Intelligence"
-
-      - company: "Maastricht University"
-        position: "Head Teaching Assistant and Tutor"
-        start_date: "2017"
-        end_date: "2019"
-        summary: "Computer Vision"
-        highlights:
-          - "Program: Elective Course in the Master of AI"
-
-      - company: "Maastricht University"
-        position: "Teaching Assistant"
-        start_date: "2016"
-        end_date: "2016"
-        summary: "Programming"
-        highlights:
-          - "Program: Elective Course in University College Maastricht"
-
-      - company: "Istanbul Technical University"
-        position: "Teaching Assistant"
-        start_date: "2015"
-        end_date: "2015"
-        summary: "Content-based Image and Video Retrieval"
-        highlights:
-          - "Program: Elective Course in the Master of Computer Engineering"
-
-    "PhD Supervision":
-      - name: "Onur Keleş"
-        summary: "2025–Present, MPI for Psycholinguistics & Bogazici University"
-        highlights:
-          - "Focus: Iconicity perception and production in humans and machines"
-
-      - name: "Lanmiao Liu"
-        summary: "2024–Present, MPI for Psycholinguistics"
-        highlights:
-          - "Focus: Semantically rich gesture generation in interactive and multi-modal environments"
-          - "Collaboration: Dr Zerrin Yumak, Utrecht University"
-
-      - name: "Bulat Khaertdinov"
-        summary: "2020–2021, Maastricht University"
-        highlights:
-          - "Focus: Self-supervised learning for human activity recognition"
-          - "Publications: PerCom 2021, IJCB 2021, IEEE Transactions on Biometrics, Behaviour, and Identity Science"
-
-    "MSc Supervision":
-      - name: "David Werkhoven"
-        summary: "2025–Present, University of Amsterdam"
-        highlights:
-          - "Topic: Gesture generation in face-to-face interactions"
-
-      - name: "Nick Milkin"
-        summary: "2025–Present, Utrecht University"
-        highlights:
-          - "Topic: Semantic gesture generation"
-
-      - name: "Jacquelin Hana"
-        summary: "2024, University of Amsterdam"
-        highlights:
-          - "Topic: Reference resolution through patterns of speech and gestures in face-to-face dialogues"
-
-      - name: "Andre Mertens"
-        summary: "2021, Maastricht University"
-        highlights:
-          - "Thesis: Explainable and interpretable features of emotion in human body expression"
-          - "Published: BNAIC/BeneLearn 2021"
-
-      - name: "Jan Lucas"
-        summary: "2020, Maastricht University"
-        highlights:
-          - "Thesis: Deep, dimensional, and multimodal emotion recognition using attention mechanisms"
-          - "Published: BNAIC/BeneLearn 2020"
-
-      - name: "Justus Schwan"
-        summary: "2017, Maastricht University"
-        highlights:
-          - "Thesis: Automatic recognition of screen worker's engagement"
-
-    "BSc Supervision":
-      - name: "Ferdinand Paar"
-        summary: "2025, Radboud University"
-        highlights:
-          - "Thesis: Object-aware gesture generation"
-
-      - name: "Evangelos Trikoupis"
-        summary: "2017, Maastricht University"
-        highlights:
-          - "Thesis: Adaptation of collaborative learning games for engagement maximization"
-
     "Internship Supervision":
       - name: "Justus Schwan"
         summary: "2017, Maastricht University"
@@ -284,19 +120,9 @@ cv:
         awarder: "Joint Special Interest Group NLP@Utrecht"
         summary: "Invited talk."
 
-      - title: "Understanding and Modelling Multimodal Dialogue Coordination"
-        date: "2024-12"
-        awarder: "The Multimodal Language Department, MPI for Psycholinguistics"
-        summary: "Invited talk."
-
       - title: "Learning Representations in Dialogue through Contrastive Learning: An Intrinsic Evaluation"
         date: "2024-10"
         awarder: "SignLab Amsterdam, University of Amsterdam"
-        summary: "Invited talk."
-
-      - title: "Visual Modelling of Human Behaviours: Multimodal, Interpretable, Grounded, and Self-Supervised Approaches"
-        date: "2024-05"
-        awarder: "Department of Data Science Advanced Computing, Maastricht University"
         summary: "Invited talk."
 
       - title: "Co-Speech Gesture Modelling: Representation and Segmentation"
@@ -304,14 +130,9 @@ cv:
         awarder: "Department of Cognitive Science and Artificial Intelligence, Tilburg University"
         summary: "Invited talk."
 
-      - title: "Segmentation of Co-Speech Gestures"
-        date: "2023-04"
-        awarder: "Language in Interaction Consortium"
-        summary: "Research presentation and demonstration."
-
       - title: "Multimodal Emotion Recognition through Deep Learning"
         date: "2022-09"
-        awarder: "Institute for Logic, Language and Computation (ILLC), University of Amsterdam"
+        awarder: "Computational Linguistics Seminar (CLS), Institute for Logic, Language and Computation (ILLC), University of Amsterdam"
         summary: "Invited talk."
 
       - title: "Human Emotion and Behaviour Analysis through Multimodal Learning"
@@ -319,69 +140,10 @@ cv:
         awarder: "The Social AI Group Colloquium, VU Amsterdam"
         summary: "Invited talk."
 
-      - title: "Skeleton-Based Explainable Bodily Expressed Emotion Recognition through Graph Convolutional Networks"
-        date: "2021-10"
-        awarder: "Cognitive Systems Group, Maastricht University"
-        summary: "Invited talk."
-
       - title: "Joint Modeling of Audio-Visual Cues Using Attention Mechanisms for Emotion Recognition"
         date: "2020-09"
         awarder: "Smart Interaction and Machine Intelligence Technologies Lab, Istanbul Technical University"
         summary: "Invited talk."
-
-    "Organisational and Leadership Experience":
-      - name: "Workshop Organisation"
-        summary: "Primary co-organiser and co-organiser roles."
-        highlights:
-          - "The First Workshop on Multimodal Interaction in Face-to-Face Dialogue (MINT), co-located with EMNLP 2026"
-          - "Semi-Automated Workflows for Facilitating Multimodal Language Processing (SWiFT-MLP), co-located with MMSYM 2026"
-          - "The First Workshop on AI and Sensor-Supported Integrated Care Solutions at PETRA 2021"
-          - "Methods for the automatic processing of multimodal interaction at MEDAL Summer School in Computational Modelling"
-
-      - name: "Leadership"
-        summary: "Leadership roles at MPI."
-        highlights:
-          - "Lead of the multimodal modelling cluster in the department of multimodal language at MPI"
-          - "Advises the directorate and research coordinator on technical aspects of the AI task force at MPI"
-
-      - name: "Management"
-        summary: "Project leadership and task leadership."
-        highlights:
-          - "Work Package Leader, Horizon EU project ProCare4Life"
-          - "Task Leader, Horizon EU project MaTHiSiS"
-
-      - name: "Associate Editor"
-        summary: "IEEE Transactions on Affective Computing"
-
-      - name: "Reviewing"
-        summary: "Conference and journal reviewing."
-        highlights:
-          - "Conferences: NeurIPS, CVPR, ICMI, FG, WACV, IJCAI, PerCom, ICML, ICLR"
-          - "Journals: IEEE Transactions on Affective Computing, Pattern Recognition, Speech Communication, Pattern Recognition Letters"
-
-      - name: "Committee Membership"
-        summary: "Workshop on Face and Gesture Analysis for COVID-19"
-
-    "Public Outreach":
-      - title: "UvA AI Master's Thesis Fair"
-        date: "2024-2025"
-        awarder: "University of Amsterdam"
-        summary: "Presenter; presented and discussed AI MSc thesis projects with prospective students and visitors."
-
-      - title: "ILLC Research Day"
-        date: "2024"
-        awarder: "University of Amsterdam"
-        summary: "Poster presenter; presented a poster on gesture segmentation to ILLC researchers."
-
-      - title: "Pleasure Arts and Science Festival"
-        date: "2019"
-        awarder: "Public outreach"
-        summary: "Demonstrator; prepared a demo of emotion recognition and its biases for the public."
-
-      - title: "Maastricht University Open Bachelor and Master Days"
-        date: "2017-2018"
-        awarder: "Maastricht University"
-        summary: "Presenter; presented AI research and its applications to prospective students and the general public."
 
     "Funding":
       - title: "NWO Open Competition Domain Science"
@@ -408,36 +170,6 @@ cv:
         amount: "10,000 USD"
         summary: "Grant supporting summer internship research at Karlsruhe Institute of Technology."
 
-      - title: "Contributed to securing EU Horizon and NWO national funds during tenure at Maastricht University"
-        date: "2020-2022"
-        awarder: "Contributor"
-        summary: "Contributor."
-
-      - title: "Veni 2023 and 2024"
-        date: "2023-2024"
-        awarder: "Applied"
-        summary: "Main Applicant."
-
-      - title: "Open Competition Domain Science – XS Package 24-2"
-        date: "2024"
-        awarder: "Applied"
-        summary: "Main Applicant."
-
-      - title: "NGF AiNed XS Europe 24-2"
-        date: "2024"
-        awarder: "Applied"
-        summary: "Main Applicant."
-
-      - title: "NWO Open Mind 2026"
-        date: "2026"
-        awarder: "Awaiting"
-        summary: "Main Applicant."
-
-      - title: "Open Competition Domain Science – XS Package 26-1"
-        date: "2026"
-        awarder: "Awaiting"
-        summary: "Main Applicant."
-
     "Awards":
       - title: "Nomination for Best Paper Award"
         date: "2021"
@@ -456,9 +188,3 @@ cv:
       - title: "Top 0.2% of High School Graduates Nationwide, Yemen"
         date: "2006"
         awarder: "National ranking, Yemen"
-
-    "Additional Skills":
-      - name: "Languages"
-        value: "Arabic (native), English (fluent), Turkish (fluent), Dutch (B2)"
-      - name: "Coding"
-        value: "Python (Pytorch, Huggingface, and Pytorch Lightening), C++, Java, and Matlab"
