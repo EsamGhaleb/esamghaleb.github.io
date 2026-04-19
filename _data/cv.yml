@@ -1,21 +1,12 @@
 cv:
   name: "Esam Ghaleb"
-  label: "Research Staff"
+  label: "Research Staff at Max Planck Institute for Psycholinguistics"
+  email: "esam.ghaleb@mpi.nl"
   location: "Nijmegen, The Netherlands"
   image: ""
   summary: "AI researcher with a background in computer science and engineering, working at the intersection of artificial intelligence and behavioural sciences, with a focus on multimodal communication, dialogue coordination, affect, and activity understanding."
 
   sections:
-    "General Information":
-      - name: "Full Name"
-        value: "Esam Ghaleb"
-      - name: "Affiliation"
-        value: "Max Planck Institute for Psycholinguistics, Multimodal Language Department"
-      - name: "Location"
-        value: "Nijmegen, The Netherlands"
-      - name: "Languages"
-        value: "Arabic (native), English (fluent), Turkish (fluent), Dutch (B1+)"
-
     "Languages":
       - name: "Arabic"
         summary: "Native"
