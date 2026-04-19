@@ -4,25 +4,67 @@
   - JSONResume uses: language, fluency
 {% endcomment %}
 
-<div class="card-text font-weight-light">
+<div class="cv-languages-grid">
   {% for entry in entries %}
-    <div class="language-item">
-      {% if entry.icon %}
-        <i class="{{ entry.icon }}"></i>
-      {% endif %}
-      {% capture lang_name %}
-        {% if entry.name %}{{ entry.name }}{% elsif entry.language %}{{ entry.language }}{% endif %}
-      {% endcapture %}
-      {% capture fluency %}
-        {% if entry.summary %}{{ entry.summary }}{% elsif entry.fluency %}{{ entry.fluency }}{% endif %}
-      {% endcapture %}
-      <strong>{{ lang_name }}:</strong> {{ fluency }}
+    {% capture lang_name %}
+      {% if entry.name %}{{ entry.name }}{% elsif entry.language %}{{ entry.language }}{% endif %}
+    {% endcapture %}
+    {% assign lang_name = lang_name | strip %}
+
+    {% capture fluency %}
+      {% if entry.summary %}{{ entry.summary }}{% elsif entry.fluency %}{{ entry.fluency }}{% endif %}
+    {% endcapture %}
+    {% assign fluency = fluency | strip %}
+
+    {% assign fluency_down = fluency | downcase %}
+    {% assign level_width = '55%' %}
+    {% assign level_label = fluency %}
+
+    {% if fluency_down contains 'native' %}
+      {% assign level_width = '100%' %}
+    {% elsif fluency_down contains 'bilingual' %}
+      {% assign level_width = '100%' %}
+    {% elsif fluency_down contains 'c2' %}
+      {% assign level_width = '95%' %}
+    {% elsif fluency_down contains 'fluent' %}
+      {% assign level_width = '90%' %}
+    {% elsif fluency_down contains 'c1' %}
+      {% assign level_width = '85%' %}
+    {% elsif fluency_down contains 'upper intermediate' %}
+      {% assign level_width = '72%' %}
+    {% elsif fluency_down contains 'b2' %}
+      {% assign level_width = '72%' %}
+    {% elsif fluency_down contains 'intermediate' %}
+      {% assign level_width = '58%' %}
+    {% elsif fluency_down contains 'b1' %}
+      {% assign level_width = '58%' %}
+    {% elsif fluency_down contains 'elementary' %}
+      {% assign level_width = '42%' %}
+    {% elsif fluency_down contains 'a2' %}
+      {% assign level_width = '42%' %}
+    {% elsif fluency_down contains 'beginner' %}
+      {% assign level_width = '28%' %}
+    {% elsif fluency_down contains 'a1' %}
+      {% assign level_width = '28%' %}
+    {% endif %}
+
+    <div class="cv-language-card">
+      <div class="cv-language-top">
+        <div class="cv-language-name-wrap">
+          {% if entry.icon %}
+            <i class="{{ entry.icon }} cv-language-icon"></i>
+          {% endif %}
+          <h4 class="cv-language-name">{{ lang_name }}</h4>
+        </div>
+
+        {% if level_label != blank %}
+          <span class="cv-language-badge">{{ level_label }}</span>
+        {% endif %}
+      </div>
+
+      <div class="cv-language-meter" aria-hidden="true">
+        <span class="cv-language-meter-fill" style="width: {{ level_width }};"></span>
+      </div>
     </div>
   {% endfor %}
 </div>
-
-<style>
-  .language-item {
-    padding: 0.5rem 0;
-  }
-</style>
