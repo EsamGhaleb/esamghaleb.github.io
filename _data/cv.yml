@@ -11,9 +11,9 @@ cv:
       - name: "Arabic"
         summary: "Native"
       - name: "English"
-        summary: "Fluent"
+        summary: "C2"
       - name: "Turkish"
-        summary: "Fluent"
+        summary: "C2"
       - name: "Dutch"
         summary: "B2 (Staatsexamen NT2 II)"
 
