@@ -98,13 +98,6 @@ cv:
           - "Graduated with honors."
           - "Bachelor's thesis: An Energy-Efficient Routing Technique and Implementation in Wireless Sensor Networks"
 
-    "Internship Supervision":
-      - name: "Justus Schwan"
-        summary: "2017, Maastricht University"
-        highlights:
-          - "Focus: Emotion recognition"
-          - "Published: Semantic and Social Media Adaptation and Personalization (SMAP)"
-
     "Invited Talks":
       - title: "Speech and Gesture Interaction in Face-to-Face Dialogue: From Representation to Generation"
         date: "2025-09"
