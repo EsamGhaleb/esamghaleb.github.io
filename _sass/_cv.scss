@@ -14,13 +14,7 @@
   padding: 1rem 1rem 0.95rem;
   border: 1px solid color-mix(in srgb, var(--global-divider-color) 75%, white 25%);
   border-radius: 18px;
-  background:
-    linear-gradient(
-      180deg,
-      rgba(181, 18, 195, 0.05) 0%,
-      rgba(181, 18, 195, 0.015) 45%,
-      var(--global-bg-color) 100%
-    );
+  background: linear-gradient(180deg, rgba(181, 18, 195, 0.05) 0%, rgba(181, 18, 195, 0.015) 45%, var(--global-bg-color) 100%);
   box-shadow: 0 10px 24px rgba(20, 20, 25, 0.04);
   transition:
     transform 0.2s ease,
@@ -41,11 +35,7 @@
   width: 72px;
   height: 4px;
   border-radius: 999px;
-  background: linear-gradient(
-    90deg,
-    var(--global-theme-color),
-    rgba(181, 18, 195, 0.2)
-  );
+  background: linear-gradient(90deg, var(--global-theme-color), rgba(181, 18, 195, 0.2));
 }
 
 .cv-language-top {
@@ -103,11 +93,7 @@
   display: block;
   height: 100%;
   border-radius: inherit;
-  background: linear-gradient(
-    90deg,
-    var(--global-theme-color) 0%,
-    color-mix(in srgb, var(--global-theme-color) 65%, white 35%) 100%
-  );
+  background: linear-gradient(90deg, var(--global-theme-color) 0%, color-mix(in srgb, var(--global-theme-color) 65%, white 35%) 100%);
   box-shadow: 0 0 12px rgba(181, 18, 195, 0.2);
 }
 

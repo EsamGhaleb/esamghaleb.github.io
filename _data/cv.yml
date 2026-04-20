@@ -134,7 +134,7 @@ cv:
         date: "2026"
         awarder: "Granted"
         amount: "50,000 EURO"
-        summary: "Main-applicant for the project \"Grounded Gesture Generation in Context: Object- and Interaction-Aware Generative AI Models of Language Use\"."
+        summary: 'Main-applicant for the project "Grounded Gesture Generation in Context: Object- and Interaction-Aware Generative AI Models of Language Use".'
 
       - title: "Donders Stimulation Fund Award"
         date: "2026"
@@ -158,7 +158,7 @@ cv:
       - title: "Nomination for Best Paper Award"
         date: "2021"
         awarder: "IEEE International Joint Conference on Biometrics (IJCB 2021)"
-        summary: "For the paper \"Contrastive self-supervised learning for sensor-based human activity recognition\"."
+        summary: 'For the paper "Contrastive self-supervised learning for sensor-based human activity recognition".'
 
       - title: "Ranked 1st in the International Challenge on Biometric Recognition in the Wild (ICB-RW)"
         date: "2016"
