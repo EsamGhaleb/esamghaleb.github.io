@@ -193,6 +193,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/VisualIconicity/";
+            },},{id: "news-new-preprint-quot-holisticsemges-semantic-grounding-of-holistic-co-speech-gesture-generation-with-contrastive-flow-matching-quot",
+          title: 'New preprint &amp;quot;HolisticSemGes- Semantic Grounding of Holistic Co-Speech Gesture Generation with Contrastive Flow-Matching&amp;quot;...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/HolisticSemGes/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
