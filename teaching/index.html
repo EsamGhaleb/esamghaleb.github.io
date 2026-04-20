@@ -66,7 +66,7 @@
     }
 
     function setActive(id) {
-      allLinks.forEach(link => {
+      allLinks.forEach((link) => {
         const isActive = link.getAttribute('href') === `#${id}`;
         link.classList.toggle('is-active', isActive);
         if (isActive) {
@@ -78,10 +78,8 @@
     }
 
     const observer = new IntersectionObserver(
-      entries => {
-        const visible = entries
-          .filter(entry => entry.isIntersecting)
-          .sort((a, b) => b.intersectionRatio - a.intersectionRatio);
+      (entries) => {
+        const visible = entries.filter((entry) => entry.isIntersecting).sort((a, b) => b.intersectionRatio - a.intersectionRatio);
 
         if (visible.length) {
           setActive(visible[0].target.id);
@@ -90,11 +88,11 @@
       {
         root: null,
         rootMargin: '-18% 0px -58% 0px',
-        threshold: [0.15, 0.3, 0.5, 0.75]
+        threshold: [0.15, 0.3, 0.5, 0.75],
       }
     );
 
-    sections.forEach(section => observer.observe(section));
+    sections.forEach((section) => observer.observe(section));
 
     if (window.location.hash) {
       setActive(window.location.hash.replace('#', ''));
@@ -102,7 +100,7 @@
       setActive(sections[0].id);
     }
 
-    allLinks.forEach(link => {
+    allLinks.forEach((link) => {
       link.addEventListener('click', function () {
         const id = this.getAttribute('href').replace('#', '');
         setActive(id);
