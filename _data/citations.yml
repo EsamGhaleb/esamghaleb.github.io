@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-13'
+  last_updated: '2026-05-20'
 papers:
   TqP9GTsAAAAJ:0EnyYjriUFMC:
     citations: 71
@@ -74,7 +74,7 @@ papers:
     title: Modelling behaviours of people living with neurodegenerative conditions
     year: '2022'
   TqP9GTsAAAAJ:ZeXyd9-uunAC:
-    citations: 7
+    citations: 8
     title: 'SemGes: Semantics-aware Co-Speech Gesture Generation using Semantic Coherence and Relevance Learning'
     year: '2025'
   TqP9GTsAAAAJ:_FxGoFyzp5QC:
@@ -98,7 +98,7 @@ papers:
     title: An energy efficient routing technique and implementation in WSNs
     year: '2014'
   TqP9GTsAAAAJ:hC7cP41nSMkC:
-    citations: 308
+    citations: 311
     title: Llms instead of human judges? a large scale empirical study across 20 nlp evaluation tasks
     year: '2025'
   TqP9GTsAAAAJ:hqOjcs7Dif8C:
@@ -126,7 +126,7 @@ papers:
     title: 'Learning Co-Speech Gesture Representations in Dialogue through Contrastive Learning: An Intrinsic Evaluation'
     year: '2024'
   TqP9GTsAAAAJ:r0BpntZqJG4C:
-    citations: 0
+    citations: 1
     title: 'HolisticSemGes: Semantic Grounding of Holistic Co-Speech Gesture Generation with Contrastive Flow-Matching'
     year: '2026'
   TqP9GTsAAAAJ:roLk4NBRz8UC:
@@ -138,7 +138,7 @@ papers:
     title: "\u2018Workshop committees FG 2021"
     year: '2021'
   TqP9GTsAAAAJ:u5HHmVD_uO8C:
-    citations: 43
+    citations: 44
     title: Joint modelling of audio-visual cues using attention mechanisms for emotion recognition
     year: '2023'
   TqP9GTsAAAAJ:ufrVoPGSRksC:
