@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-20'
+  last_updated: '2026-05-25'
 papers:
   TqP9GTsAAAAJ:0EnyYjriUFMC:
     citations: 71
@@ -98,7 +98,7 @@ papers:
     title: An energy efficient routing technique and implementation in WSNs
     year: '2014'
   TqP9GTsAAAAJ:hC7cP41nSMkC:
-    citations: 311
+    citations: 317
     title: Llms instead of human judges? a large scale empirical study across 20 nlp evaluation tasks
     year: '2025'
   TqP9GTsAAAAJ:hqOjcs7Dif8C:
@@ -118,7 +118,7 @@ papers:
     title: Co-Speech Gesture Detection through Multi-phase Sequence Labeling Supplementary Materials
     year: '2023'
   TqP9GTsAAAAJ:qjMakFHDy7sC:
-    citations: 60
+    citations: 62
     title: Multimodal attention-mechanism for temporal emotion recognition
     year: '2020'
   TqP9GTsAAAAJ:qxL8FJ1GzNcC:
