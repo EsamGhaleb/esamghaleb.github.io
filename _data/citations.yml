@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-08'
+  last_updated: '2026-06-12'
 papers:
   TqP9GTsAAAAJ:0EnyYjriUFMC:
     citations: 72
@@ -18,7 +18,7 @@ papers:
     title: 'I see what you mean: Co-Speech Gestures for Reference Resolution in Multimodal Dialogue'
     year: '2025'
   TqP9GTsAAAAJ:5nxA0vEk-isC:
-    citations: 135
+    citations: 136
     title: Contrastive self-supervised learning for sensor-based human activity recognition
     year: '2021'
   TqP9GTsAAAAJ:8k81kl-MbHgC:
@@ -74,7 +74,7 @@ papers:
     title: Speakers align both their gestures and words not only to establish but also to maintain reference to create shared labels for novel objects in interaction
     year: '2023'
   TqP9GTsAAAAJ:YsMSGLbcyi4C:
-    citations: 4
+    citations: 5
     title: Modelling behaviours of people living with neurodegenerative conditions
     year: '2022'
   TqP9GTsAAAAJ:ZeXyd9-uunAC:
@@ -102,7 +102,7 @@ papers:
     title: An energy efficient routing technique and implementation in WSNs
     year: '2014'
   TqP9GTsAAAAJ:hC7cP41nSMkC:
-    citations: 329
+    citations: 332
     title: Llms instead of human judges? a large scale empirical study across 20 nlp evaluation tasks
     year: '2025'
   TqP9GTsAAAAJ:hqOjcs7Dif8C:
