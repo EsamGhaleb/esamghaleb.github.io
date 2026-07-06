@@ -190,8 +190,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/VisualIconicity/";
-            },},{id: "news-accepted-paper-at-iccv-quot-semconflow-semantic-grounding-of-holistic-co-speech-gesture-generation-with-contrastive-flow-matching-quot",
-          title: 'Accepted paper at ICCV &amp;quot;SemConFlow- Semantic Grounding of Holistic Co-Speech Gesture Generation with...',
+            },},{id: "news-new-preprint-titled-quot-aligned-but-not-partner-specific-distinguishing-how-multimodal-llm-agents-succeed-in-reference-games-without-human-like-conventions-quot",
+          title: 'New preprint titled &amp;quot;Aligned but Not Partner-Specific- Distinguishing How Multimodal LLM Agents Succeed...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/aligend_but/";
