@@ -190,15 +190,15 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/VisualIconicity/";
-            },},{id: "news-new-preprint-titled-quot-aligned-but-not-partner-specific-distinguishing-how-multimodal-llm-agents-succeed-in-reference-games-without-human-like-conventions-quot",
+            },},{id: "news-in-human-communication-alignment-emerges-through-interaction-as-people-gradually-converge-and-build-common-ground-with-a-specific-partner-what-happens-when-the-conversation-partners-are-multimodal-llm-agents-in-our-new-preprint-aligned-but-not-partner-specific-link-below-we-studied-how-mllm-agents-can-succeed-in-referential-games-and-appear-linguistically-aligned-we-investigate-this-by-comparing-human-human-and-agent-agent-dyads-with-pseudo-dyads-i-e-dialogue-baselines-that-preserve-the-referential-task-structure-while-recombining-rounds-across-different-dyads-therefore-breaking-partner-specific-interaction-history-our-findings-show-that-real-human-dyads-differ-from-their-pseudo-counterparts-as-expected-over-time-humans-reduce-effort-compress-descriptions-and-develop-partner-specific-labels-however-real-and-pseudo-mllm-dyads-behave-similarly-agents-show-high-lexical-overlap-in-both-conditions-maintain-fixed-effort-and-rely-on-verbose-descriptions-rather-than-partner-specific-convergence-the-implication-is-that-agents-alignment-is-not-necessarily-interaction-dependent-which-is-very-different-from-human-human-behaviour-preprint-link-https-arxiv-org-pdf-2606-08081",
+          title: 'In human communication, alignment emerges through interaction as people gradually converge and build...',
+          description: "",
+          section: "News",},{id: "news-new-preprint-titled-quot-aligned-but-not-partner-specific-distinguishing-how-multimodal-llm-agents-succeed-in-reference-games-without-human-like-conventions-quot",
           title: 'New preprint titled &amp;quot;Aligned but Not Partner-Specific- Distinguishing How Multimodal LLM Agents Succeed...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/aligend_but/";
-            },},{id: "news-in-human-communication-alignment-emerges-through-interaction-as-people-gradually-converge-and-build-common-ground-with-a-specific-partner-what-happens-when-the-conversation-partners-are-multimodal-llm-agents-in-our-new-preprint-aligned-but-not-partner-specific-link-below-we-studied-how-mllm-agents-can-succeed-in-referential-games-and-appear-linguistically-aligned-we-investigate-this-by-comparing-human-human-and-agent-agent-dyads-with-pseudo-dyads-i-e-dialogue-baselines-that-preserve-the-referential-task-structure-while-recombining-rounds-across-different-dyads-therefore-breaking-partner-specific-interaction-history-our-findings-show-that-real-human-dyads-differ-from-their-pseudo-counterparts-as-expected-over-time-humans-reduce-effort-compress-descriptions-and-develop-partner-specific-labels-however-real-and-pseudo-mllm-dyads-behave-similarly-agents-show-high-lexical-overlap-in-both-conditions-maintain-fixed-effort-and-rely-on-verbose-descriptions-rather-than-partner-specific-convergence-the-implication-is-that-agents-alignment-is-not-necessarily-interaction-dependent-which-is-very-different-from-human-human-behaviour-preprint-link-https-arxiv-org-pdf-2606-08081",
-          title: 'In human communication, alignment emerges through interaction as people gradually converge and build...',
-          description: "",
-          section: "News",},{id: "news-accepted-paper-at-eccv-quot-semconflow-semantic-grounding-of-holistic-co-speech-gesture-generation-with-contrastive-flow-matching-quot",
+            },},{id: "news-accepted-paper-at-eccv-quot-semconflow-semantic-grounding-of-holistic-co-speech-gesture-generation-with-contrastive-flow-matching-quot",
           title: 'Accepted paper at ECCV &amp;quot;SemConFlow- Semantic Grounding of Holistic Co-Speech Gesture Generation with...',
           description: "",
           section: "News",handler: () => {
