@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Accepted paper at ICCV "SemConFlow- Semantic Grounding of Holistic Co-Speech Gesture Generation with Contrastive Flow-Matching"
-permalink: /news/SemConFlow/
+permalink: /news/aligend_but/
 date: 2026-04-20 07:59:00+0200
 inline: false
 ---
