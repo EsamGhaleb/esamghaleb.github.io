@@ -100,10 +100,7 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/DialogueModellingNLP1/";
-            },},{id: "news-pre-print-on-leveraging-speech-to-detect-co-speech-gestures-in-multimodal-communication",
-          title: 'Pre-print on leveraging speech to detect co-speech gestures in multimodal communication',
-          description: "",
-          section: "News",},{id: "news-two-papers-have-been-accepted-at-cogsci24",
+            },},{id: "news-two-papers-have-been-accepted-at-cogsci24",
           title: 'Two papers have been accepted at CogSci24',
           description: "",
           section: "News",handler: () => {
@@ -193,11 +190,19 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/VisualIconicity/";
-            },},{id: "news-new-preprint-quot-holisticsemges-semantic-grounding-of-holistic-co-speech-gesture-generation-with-contrastive-flow-matching-quot",
-          title: 'New preprint &amp;quot;HolisticSemGes- Semantic Grounding of Holistic Co-Speech Gesture Generation with Contrastive Flow-Matching&amp;quot;...',
+            },},{id: "news-accepted-paper-at-iccv-quot-semconflow-semantic-grounding-of-holistic-co-speech-gesture-generation-with-contrastive-flow-matching-quot",
+          title: 'Accepted paper at ICCV &amp;quot;SemConFlow- Semantic Grounding of Holistic Co-Speech Gesture Generation with...',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/HolisticSemGes/";
+              window.location.href = "/news/SemConFlow/";
+            },},{id: "news-in-human-communication-alignment-emerges-through-interaction-as-people-gradually-converge-and-build-common-ground-with-a-specific-partner-what-happens-when-the-conversation-partners-are-multimodal-llm-agents-in-our-new-preprint-aligned-but-not-partner-specific-link-below-we-studied-how-mllm-agents-can-succeed-in-referential-games-and-appear-linguistically-aligned-we-investigate-this-by-comparing-human-human-and-agent-agent-dyads-with-pseudo-dyads-i-e-dialogue-baselines-that-preserve-the-referential-task-structure-while-recombining-rounds-across-different-dyads-therefore-breaking-partner-specific-interaction-history-our-findings-show-that-real-human-dyads-differ-from-their-pseudo-counterparts-as-expected-over-time-humans-reduce-effort-compress-descriptions-and-develop-partner-specific-labels-however-real-and-pseudo-mllm-dyads-behave-similarly-agents-show-high-lexical-overlap-in-both-conditions-maintain-fixed-effort-and-rely-on-verbose-descriptions-rather-than-partner-specific-convergence-the-implication-is-that-agents-alignment-is-not-necessarily-interaction-dependent-which-is-very-different-from-human-human-behaviour-preprint-link-https-arxiv-org-pdf-2606-08081",
+          title: 'In human communication, alignment emerges through interaction as people gradually converge and build...',
+          description: "",
+          section: "News",},{id: "news-accepted-paper-at-eccv-quot-semconflow-semantic-grounding-of-holistic-co-speech-gesture-generation-with-contrastive-flow-matching-quot",
+          title: 'Accepted paper at ECCV &amp;quot;SemConFlow- Semantic Grounding of Holistic Co-Speech Gesture Generation with...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/SemConFlow/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
