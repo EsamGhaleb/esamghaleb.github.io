@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Max Planck Institute for Psycholinguistics</a>.
+subtitle: <a href='#'>Max Planck Institute, Multimodal Language Department</a>.
 profile:
   align: right
   image: EsamMPI.jpg
@@ -26,4 +26,4 @@ latest_posts:
 
 In brief: I develop computational models of multimodal language and behaviours: how speech, text, gesture, sign, facial expressions, and whole-body movement jointly encode meaning in interaction. Previously, I worked at the University of Amsterdam and Maastricht University on linguistic–gestural alignment and explainable multimodal modelling of human behaviour.
 
-Currently, I am a research scientist in the Multimodal Language Department at the Max Planck Institute for Psycholinguistics (Nijmegen), and I lead the department’s Multimodal Modelling Cluster. My work builds and studies machine-learning methods for the segmentation, coding, and representation of visual communicative signals from motion-capture and video data, and uses learned representations as testbeds for theories of multimodal language across languages and interactional settings. I also study how large language and multimodal language models integrate and generate multimodal behaviour, and develop generative models of gesture for virtual agents. Recent work includes an NWO XS-funded project on grounded, object- and interaction-aware gesture generation in context.
+Currently, I am a research scientist in the Multimodal Language Department at the Max Planck Institute, and I lead the department’s Multimodal Modelling Cluster. My work builds and studies machine-learning methods for the segmentation, coding, and representation of visual communicative signals from motion-capture and video data, and uses learned representations as testbeds for theories of multimodal language across languages and interactional settings. I also study how large language and multimodal language models integrate and generate multimodal behaviour, and develop generative models of gesture for virtual agents. Recent work includes an NWO XS-funded project on grounded, object- and interaction-aware gesture generation in context.
