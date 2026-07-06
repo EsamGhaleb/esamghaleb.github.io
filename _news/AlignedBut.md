@@ -2,7 +2,7 @@
 layout: post
 title: New preprint titled "Aligned but Not Partner-Specific- Distinguishing How Multimodal LLM Agents Succeed in Reference Games Without Human-Like Conventions"
 permalink: /news/aligend_but/
-date: 2026-05-29 07:59:00+0200
+date: 2026-05-30 07:59:00+0200
 inline: false
 ---
 
