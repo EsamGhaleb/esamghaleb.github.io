@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='#'>Max Planck Institute, Multimodal Language Department</a>.
 profile:
   align: right
-  image: EsamMPI.jpg
+  image: EsamMPI.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Nijmegen, The Netherlands.</p>

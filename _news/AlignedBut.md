@@ -1,21 +1,19 @@
 ---
 layout: post
-title: Accepted paper at ICCV "SemConFlow- Semantic Grounding of Holistic Co-Speech Gesture Generation with Contrastive Flow-Matching"
+title: New preprint titled "Aligned but Not Partner-Specific- Distinguishing How Multimodal LLM Agents Succeed in Reference Games Without Human-Like Conventions"
 permalink: /news/aligend_but/
-date: 2026-04-20 07:59:00+0200
+date: 2026-05-29 07:59:00+0200
 inline: false
 ---
 
-We are happy to share our new preprint, **SemConFlow: Semantic Grounding of Holistic Co-Speech Gesture Generation with Contrastive Flow-Matching,”** by **Lanmiao Liu, Esam Ghaleb, Aslı Özyürek, and Zerrin Yumak**.
+In human communication, alignment emerges through interaction as people gradually converge and build common ground with a specific partner. What happens when the conversation partners are multimodal LLM agents? In our new preprint, Aligned but Not Partner-Specific (link below), we studied how MLLM agents can succeed in referential games and appear linguistically aligned.
 
-The preprint is available on [arXiv](https://arxiv.org/pdf/2603.26553).
+We investigate this by comparing human-human and agent-agent dyads with pseudo-dyads, i.e., dialogue baselines that preserve the referential task structure while recombining rounds across different dyads, therefore, breaking partner-specific interaction history.
 
-### Abstract
+Our findings show that real human dyads differ from their pseudo counterparts, as expected. Over time, humans reduce effort, compress descriptions, and develop partner-specific labels.
 
-While the field of **co-speech gesture generation** has seen significant advances, producing **holistic, semantically grounded gestures** remains a challenge. Existing approaches rely on **external semantic retrieval methods**, which limit their generalisation capability due to dependence on predefined linguistic rules. **Flow-matching-based methods** produce promising results; however, the network is optimised using only **semantically congruent samples** without exposure to **negative examples**, leading to the learning of **rhythmic gestures** rather than **sparse motions** such as **iconic** and **metaphoric gestures**.
+However, real and pseudo MLLM dyads behave similarly. Agents show high lexical overlap in both conditions, maintain fixed effort, and rely on verbose descriptions rather than partner-specific convergence.
 
-Furthermore, by modelling **body parts in isolation**, most methods fail to maintain **cross-modal consistency**. We introduce a **Contrastive Flow Matching-based co-speech gesture generation model** that uses **mismatched audio–text conditions as negatives**, training the velocity field to follow the correct motion trajectory while repelling semantically incongruent trajectories. Our model ensures **cross-modal coherence** by embedding **text, audio, and holistic motion** into a **composite latent space** via **cosine** and **contrastive objectives**.
+The implication is that agents’ alignment is not necessarily interaction-dependent, which is very different from human-human behaviour.
 
-Extensive experiments and a user study demonstrate that our proposed approach outperforms **state-of-the-art methods** on two datasets, **BEAT2** and **SHOW**.
-
-**Project page:** [HolisticSemGes](https://marcos452.github.io/HoliticSemGes)
+Preprint link: https://arxiv.org/pdf/2606.08081
