@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-05-25'
+  last_updated: '2026-06-12'
 papers:
   TqP9GTsAAAAJ:0EnyYjriUFMC:
-    citations: 71
+    citations: 72
     title: Metric learning-based multimodal audio-visual emotion recognition
     year: '2019'
   TqP9GTsAAAAJ:2osOgNQ5qMEC:
@@ -10,7 +10,7 @@ papers:
     title: Bimodal Emotion Recognition through Audio-Visual Cues
     year: '2021'
   TqP9GTsAAAAJ:3fE2CSJIrl8C:
-    citations: 11
+    citations: 12
     title: Co-Speech Gesture Detection through Multi-Phase Sequence Labeling
     year: '2024'
   TqP9GTsAAAAJ:4DMP91E08xMC:
@@ -18,7 +18,7 @@ papers:
     title: 'I see what you mean: Co-Speech Gestures for Reference Resolution in Multimodal Dialogue'
     year: '2025'
   TqP9GTsAAAAJ:5nxA0vEk-isC:
-    citations: 135
+    citations: 136
     title: Contrastive self-supervised learning for sensor-based human activity recognition
     year: '2021'
   TqP9GTsAAAAJ:8k81kl-MbHgC:
@@ -49,6 +49,10 @@ papers:
     citations: 0
     title: Explainable and Interpretable Features of Emotion in Human Body Expressions
     year: '2021'
+  TqP9GTsAAAAJ:TFP_iSt0sucC:
+    citations: 0
+    title: 'DuoGesture: Neuro-Inspired and Biomechanically Informed Dual-Stream Co-Speech Gesture Generation'
+    year: '2026'
   TqP9GTsAAAAJ:TQgYirikUcIC:
     citations: 19
     title: Deep representation and score normalization for face recognition under mismatched conditions
@@ -70,11 +74,11 @@ papers:
     title: Speakers align both their gestures and words not only to establish but also to maintain reference to create shared labels for novel objects in interaction
     year: '2023'
   TqP9GTsAAAAJ:YsMSGLbcyi4C:
-    citations: 4
+    citations: 5
     title: Modelling behaviours of people living with neurodegenerative conditions
     year: '2022'
   TqP9GTsAAAAJ:ZeXyd9-uunAC:
-    citations: 8
+    citations: 9
     title: 'SemGes: Semantics-aware Co-Speech Gesture Generation using Semantic Coherence and Relevance Learning'
     year: '2025'
   TqP9GTsAAAAJ:_FxGoFyzp5QC:
@@ -98,7 +102,7 @@ papers:
     title: An energy efficient routing technique and implementation in WSNs
     year: '2014'
   TqP9GTsAAAAJ:hC7cP41nSMkC:
-    citations: 317
+    citations: 332
     title: Llms instead of human judges? a large scale empirical study across 20 nlp evaluation tasks
     year: '2025'
   TqP9GTsAAAAJ:hqOjcs7Dif8C:
@@ -118,7 +122,7 @@ papers:
     title: Co-Speech Gesture Detection through Multi-phase Sequence Labeling Supplementary Materials
     year: '2023'
   TqP9GTsAAAAJ:qjMakFHDy7sC:
-    citations: 62
+    citations: 65
     title: Multimodal attention-mechanism for temporal emotion recognition
     year: '2020'
   TqP9GTsAAAAJ:qxL8FJ1GzNcC:
@@ -138,7 +142,7 @@ papers:
     title: "\u2018Workshop committees FG 2021"
     year: '2021'
   TqP9GTsAAAAJ:u5HHmVD_uO8C:
-    citations: 44
+    citations: 45
     title: Joint modelling of audio-visual cues using attention mechanisms for emotion recognition
     year: '2023'
   TqP9GTsAAAAJ:ufrVoPGSRksC:
