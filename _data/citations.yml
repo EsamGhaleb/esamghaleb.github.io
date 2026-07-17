@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-06-12'
+  last_updated: '2026-07-17'
 papers:
   TqP9GTsAAAAJ:0EnyYjriUFMC:
-    citations: 72
+    citations: 73
     title: Metric learning-based multimodal audio-visual emotion recognition
     year: '2019'
   TqP9GTsAAAAJ:2osOgNQ5qMEC:
@@ -34,11 +34,11 @@ papers:
     title: Deep, dimensional and multimodal emotion recognition using attention mechanisms
     year: '2020'
   TqP9GTsAAAAJ:IjCSPb-OGe4C:
-    citations: 132
+    citations: 133
     title: Multimodal and temporal perception of audio-visual cues for emotion recognition
     year: '2019'
   TqP9GTsAAAAJ:LkGwnXOMwfcC:
-    citations: 53
+    citations: 55
     title: Deep triplet networks with attention for sensor-based human activity recognition
     year: '2021'
   TqP9GTsAAAAJ:MXK_kJrjxJIC:
@@ -50,7 +50,7 @@ papers:
     title: Explainable and Interpretable Features of Emotion in Human Body Expressions
     year: '2021'
   TqP9GTsAAAAJ:TFP_iSt0sucC:
-    citations: 0
+    citations: 1
     title: 'DuoGesture: Neuro-Inspired and Biomechanically Informed Dual-Stream Co-Speech Gesture Generation'
     year: '2026'
   TqP9GTsAAAAJ:TQgYirikUcIC:
@@ -78,7 +78,7 @@ papers:
     title: Modelling behaviours of people living with neurodegenerative conditions
     year: '2022'
   TqP9GTsAAAAJ:ZeXyd9-uunAC:
-    citations: 9
+    citations: 12
     title: 'SemGes: Semantics-aware Co-Speech Gesture Generation using Semantic Coherence and Relevance Learning'
     year: '2025'
   TqP9GTsAAAAJ:_FxGoFyzp5QC:
@@ -90,11 +90,11 @@ papers:
     title: Face Track Retrieval and Recognition Across Age
     year: '2015'
   TqP9GTsAAAAJ:_kc_bZDykSQC:
-    citations: 9
+    citations: 11
     title: Analysing Cross-Speaker Convergence in Face-to-Face Dialogue through the Lens of Automatically Detected Shared Linguistic Constructions
     year: '2024'
   TqP9GTsAAAAJ:e5wmG9Sq2KIC:
-    citations: 0
+    citations: 1
     title: 'The Visual Iconicity Challenge: Evaluating Vision-Language Models on Sign Language Form-Meaning Mapping'
     year: '2026'
   TqP9GTsAAAAJ:eQOLeE2rZwMC:
@@ -102,21 +102,33 @@ papers:
     title: An energy efficient routing technique and implementation in WSNs
     year: '2014'
   TqP9GTsAAAAJ:hC7cP41nSMkC:
-    citations: 332
+    citations: 364
     title: Llms instead of human judges? a large scale empirical study across 20 nlp evaluation tasks
     year: '2025'
   TqP9GTsAAAAJ:hqOjcs7Dif8C:
     citations: 20
     title: High-performance and lightweight real-time deep face emotion recognition
     year: '2017'
+  TqP9GTsAAAAJ:isC4tDSrTZIC:
+    citations: 0
+    title: 'Aligned but Not Partner-Specific: Distinguishing How Multimodal LLM Agents Succeed in Reference Games Without Human-Like Conventions'
+    year: '2026'
   TqP9GTsAAAAJ:kNdYIx-mwKoC:
-    citations: 11
+    citations: 12
     title: Leveraging speech for gesture detection in multimodal communication
+    year: '2024'
+  TqP9GTsAAAAJ:k_IJM867U9cC:
+    citations: 0
+    title: Speakers align both their gestures and words not only to establish but also to maintain
     year: '2024'
   TqP9GTsAAAAJ:mB3voiENLucC:
     citations: 0
     title: Temporal alignment and integration of audio-visual cues for co-speech gesture detection
     year: '2024'
+  TqP9GTsAAAAJ:maZDTaKrznsC:
+    citations: 2
+    title: 'SemConFlow: Semantic Grounding of Holistic Co-Speech Gesture Generation with Contrastive Flow-Matching'
+    year: '2026'
   TqP9GTsAAAAJ:qUcmZB5y_30C:
     citations: 0
     title: Co-Speech Gesture Detection through Multi-phase Sequence Labeling Supplementary Materials
@@ -129,10 +141,6 @@ papers:
     citations: 3
     title: 'Learning Co-Speech Gesture Representations in Dialogue through Contrastive Learning: An Intrinsic Evaluation'
     year: '2024'
-  TqP9GTsAAAAJ:r0BpntZqJG4C:
-    citations: 1
-    title: 'HolisticSemGes: Semantic Grounding of Holistic Co-Speech Gesture Generation with Contrastive Flow-Matching'
-    year: '2026'
   TqP9GTsAAAAJ:roLk4NBRz8UC:
     citations: 23
     title: Towards affect recognition through interactions with learning materials
@@ -142,7 +150,7 @@ papers:
     title: "\u2018Workshop committees FG 2021"
     year: '2021'
   TqP9GTsAAAAJ:u5HHmVD_uO8C:
-    citations: 45
+    citations: 48
     title: Joint modelling of audio-visual cues using attention mechanisms for emotion recognition
     year: '2023'
   TqP9GTsAAAAJ:ufrVoPGSRksC:
