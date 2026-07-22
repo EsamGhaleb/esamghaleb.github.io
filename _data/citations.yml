@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-17'
+  last_updated: '2026-07-22'
 papers:
   TqP9GTsAAAAJ:0EnyYjriUFMC:
-    citations: 73
+    citations: 74
     title: Metric learning-based multimodal audio-visual emotion recognition
     year: '2019'
   TqP9GTsAAAAJ:2osOgNQ5qMEC:
@@ -102,7 +102,7 @@ papers:
     title: An energy efficient routing technique and implementation in WSNs
     year: '2014'
   TqP9GTsAAAAJ:hC7cP41nSMkC:
-    citations: 364
+    citations: 368
     title: Llms instead of human judges? a large scale empirical study across 20 nlp evaluation tasks
     year: '2025'
   TqP9GTsAAAAJ:hqOjcs7Dif8C:
@@ -150,7 +150,7 @@ papers:
     title: "\u2018Workshop committees FG 2021"
     year: '2021'
   TqP9GTsAAAAJ:u5HHmVD_uO8C:
-    citations: 48
+    citations: 49
     title: Joint modelling of audio-visual cues using attention mechanisms for emotion recognition
     year: '2023'
   TqP9GTsAAAAJ:ufrVoPGSRksC:
@@ -158,6 +158,6 @@ papers:
     title: A Face Recognition Based Multiplayer Mobile Game Application
     year: '2014'
   TqP9GTsAAAAJ:zYLM7Y9cAGgC:
-    citations: 15
+    citations: 16
     title: Multimodal fusion based on information gain for emotion recognition in the wild
     year: '2017'
