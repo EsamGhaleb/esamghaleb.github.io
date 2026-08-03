@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-22'
+  last_updated: '2026-08-03'
 papers:
   TqP9GTsAAAAJ:0EnyYjriUFMC:
-    citations: 74
+    citations: 72
     title: Metric learning-based multimodal audio-visual emotion recognition
     year: '2019'
   TqP9GTsAAAAJ:2osOgNQ5qMEC:
@@ -34,7 +34,7 @@ papers:
     title: Deep, dimensional and multimodal emotion recognition using attention mechanisms
     year: '2020'
   TqP9GTsAAAAJ:IjCSPb-OGe4C:
-    citations: 133
+    citations: 132
     title: Multimodal and temporal perception of audio-visual cues for emotion recognition
     year: '2019'
   TqP9GTsAAAAJ:LkGwnXOMwfcC:
@@ -54,11 +54,11 @@ papers:
     title: 'DuoGesture: Neuro-Inspired and Biomechanically Informed Dual-Stream Co-Speech Gesture Generation'
     year: '2026'
   TqP9GTsAAAAJ:TQgYirikUcIC:
-    citations: 19
+    citations: 18
     title: Deep representation and score normalization for face recognition under mismatched conditions
     year: '2018'
   TqP9GTsAAAAJ:Tyk-4Ss8FVUC:
-    citations: 29
+    citations: 30
     title: Exploiting sensing devices availability in AR/VR deployments to foster engagement
     year: '2019'
   TqP9GTsAAAAJ:UeHWp8X0CEIC:
@@ -66,11 +66,11 @@ papers:
     title: 'Accio: A data set for face track retrieval in movies across age'
     year: '2015'
   TqP9GTsAAAAJ:W7OEmFMy1HYC:
-    citations: 31
+    citations: 32
     title: Skeleton-Based Explainable Bodily Expressed Emotion Recognition Through Graph Convolutional Networks
     year: '2021'
   TqP9GTsAAAAJ:YOwf2qJgpHMC:
-    citations: 8
+    citations: 9
     title: Speakers align both their gestures and words not only to establish but also to maintain reference to create shared labels for novel objects in interaction
     year: '2023'
   TqP9GTsAAAAJ:YsMSGLbcyi4C:
@@ -78,11 +78,11 @@ papers:
     title: Modelling behaviours of people living with neurodegenerative conditions
     year: '2022'
   TqP9GTsAAAAJ:ZeXyd9-uunAC:
-    citations: 12
+    citations: 13
     title: 'SemGes: Semantics-aware Co-Speech Gesture Generation using Semantic Coherence and Relevance Learning'
     year: '2025'
   TqP9GTsAAAAJ:_FxGoFyzp5QC:
-    citations: 42
+    citations: 41
     title: Dynamic temperature scaling in contrastive self-supervised learning for sensor-based human activity recognition
     year: '2022'
   TqP9GTsAAAAJ:_Qo2XoVZTnwC:
@@ -102,7 +102,7 @@ papers:
     title: An energy efficient routing technique and implementation in WSNs
     year: '2014'
   TqP9GTsAAAAJ:hC7cP41nSMkC:
-    citations: 368
+    citations: 369
     title: Llms instead of human judges? a large scale empirical study across 20 nlp evaluation tasks
     year: '2025'
   TqP9GTsAAAAJ:hqOjcs7Dif8C:
@@ -134,7 +134,7 @@ papers:
     title: Co-Speech Gesture Detection through Multi-phase Sequence Labeling Supplementary Materials
     year: '2023'
   TqP9GTsAAAAJ:qjMakFHDy7sC:
-    citations: 65
+    citations: 63
     title: Multimodal attention-mechanism for temporal emotion recognition
     year: '2020'
   TqP9GTsAAAAJ:qxL8FJ1GzNcC:
@@ -142,7 +142,7 @@ papers:
     title: 'Learning Co-Speech Gesture Representations in Dialogue through Contrastive Learning: An Intrinsic Evaluation'
     year: '2024'
   TqP9GTsAAAAJ:roLk4NBRz8UC:
-    citations: 23
+    citations: 22
     title: Towards affect recognition through interactions with learning materials
     year: '2018'
   TqP9GTsAAAAJ:u-x6o8ySG0sC:
@@ -150,7 +150,7 @@ papers:
     title: "\u2018Workshop committees FG 2021"
     year: '2021'
   TqP9GTsAAAAJ:u5HHmVD_uO8C:
-    citations: 49
+    citations: 50
     title: Joint modelling of audio-visual cues using attention mechanisms for emotion recognition
     year: '2023'
   TqP9GTsAAAAJ:ufrVoPGSRksC:
@@ -158,6 +158,6 @@ papers:
     title: A Face Recognition Based Multiplayer Mobile Game Application
     year: '2014'
   TqP9GTsAAAAJ:zYLM7Y9cAGgC:
-    citations: 16
+    citations: 17
     title: Multimodal fusion based on information gain for emotion recognition in the wild
     year: '2017'
