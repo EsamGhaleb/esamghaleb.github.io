@@ -190,11 +190,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/VisualIconicity/";
-            },},{id: "news-new-preprint-titled-quot-aligned-but-not-partner-specific-distinguishing-how-multimodal-llm-agents-succeed-in-reference-games-without-human-like-conventions-quot",
-          title: 'New preprint titled &amp;quot;Aligned but Not Partner-Specific- Distinguishing How Multimodal LLM Agents Succeed...',
+            },},{id: "news-accepted-paper-at-the-emnlp-main-conference-titled-quot-aligned-but-not-partner-specific-quot",
+          title: 'Accepted paper at the EMNLP Main Conference titled &amp;quot;Aligned but Not Partner-Specific&amp;quot;',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/aligend_but/";
+              window.location.href = "/news/aligned_but/";
             },},{id: "news-accepted-paper-at-eccv-quot-semconflow-semantic-grounding-of-holistic-co-speech-gesture-generation-with-contrastive-flow-matching-quot",
           title: 'Accepted paper at ECCV &amp;quot;SemConFlow- Semantic Grounding of Holistic Co-Speech Gesture Generation with...',
           description: "",
