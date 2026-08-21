@@ -2,7 +2,7 @@
 layout: post
 title: Accepted paper at the EMNLP Main Conference titled "Aligned but Not Partner-Specific"
 permalink: /news/aligned_but/
-date: 2026-05-30 07:59:00+0200
+date: 2026-08-21 07:59:00+0200
 inline: false
 ---
 
