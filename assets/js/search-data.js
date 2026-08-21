@@ -190,16 +190,16 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/VisualIconicity/";
-            },},{id: "news-accepted-paper-at-the-emnlp-main-conference-titled-quot-aligned-but-not-partner-specific-quot",
-          title: 'Accepted paper at the EMNLP Main Conference titled &amp;quot;Aligned but Not Partner-Specific&amp;quot;',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/aligned_but/";
             },},{id: "news-accepted-paper-at-eccv-quot-semconflow-semantic-grounding-of-holistic-co-speech-gesture-generation-with-contrastive-flow-matching-quot",
           title: 'Accepted paper at ECCV &amp;quot;SemConFlow- Semantic Grounding of Holistic Co-Speech Gesture Generation with...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/SemConFlow/";
+            },},{id: "news-accepted-paper-at-the-emnlp-main-conference-titled-quot-aligned-but-not-partner-specific-quot",
+          title: 'Accepted paper at the EMNLP Main Conference titled &amp;quot;Aligned but Not Partner-Specific&amp;quot;',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/aligned_but/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
