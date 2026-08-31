@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-08-03'
+  last_updated: '2026-08-31'
 papers:
   TqP9GTsAAAAJ:0EnyYjriUFMC:
-    citations: 72
+    citations: 73
     title: Metric learning-based multimodal audio-visual emotion recognition
     year: '2019'
   TqP9GTsAAAAJ:2osOgNQ5qMEC:
@@ -10,15 +10,15 @@ papers:
     title: Bimodal Emotion Recognition through Audio-Visual Cues
     year: '2021'
   TqP9GTsAAAAJ:3fE2CSJIrl8C:
-    citations: 12
+    citations: 14
     title: Co-Speech Gesture Detection through Multi-Phase Sequence Labeling
     year: '2024'
   TqP9GTsAAAAJ:4DMP91E08xMC:
-    citations: 4
+    citations: 5
     title: 'I see what you mean: Co-Speech Gestures for Reference Resolution in Multimodal Dialogue'
     year: '2025'
   TqP9GTsAAAAJ:5nxA0vEk-isC:
-    citations: 136
+    citations: 143
     title: Contrastive self-supervised learning for sensor-based human activity recognition
     year: '2021'
   TqP9GTsAAAAJ:8k81kl-MbHgC:
@@ -34,13 +34,21 @@ papers:
     title: Deep, dimensional and multimodal emotion recognition using attention mechanisms
     year: '2020'
   TqP9GTsAAAAJ:IjCSPb-OGe4C:
-    citations: 132
+    citations: 133
     title: Multimodal and temporal perception of audio-visual cues for emotion recognition
     year: '2019'
+  TqP9GTsAAAAJ:JV2RwH3_ST0C:
+    citations: 0
+    title: Investigating Multimodal Informativity under Different Partner Visibility Conditions in Video-Mediated Dialogue
+    year: '2026'
   TqP9GTsAAAAJ:LkGwnXOMwfcC:
-    citations: 55
+    citations: 56
     title: Deep triplet networks with attention for sensor-based human activity recognition
     year: '2021'
+  TqP9GTsAAAAJ:M3NEmzRMIkIC:
+    citations: 0
+    title: "ISTANBUL TECHNICAL UNIVERSITY \u51FB GRADUATE SCHOOL OF SCIENCE ENGINEERING AND TECHNOLOGY"
+    year: '2015'
   TqP9GTsAAAAJ:MXK_kJrjxJIC:
     citations: 9
     title: Temporal triplet mining for personality recognition
@@ -50,7 +58,7 @@ papers:
     title: Explainable and Interpretable Features of Emotion in Human Body Expressions
     year: '2021'
   TqP9GTsAAAAJ:TFP_iSt0sucC:
-    citations: 1
+    citations: 2
     title: 'DuoGesture: Neuro-Inspired and Biomechanically Informed Dual-Stream Co-Speech Gesture Generation'
     year: '2026'
   TqP9GTsAAAAJ:TQgYirikUcIC:
@@ -62,11 +70,11 @@ papers:
     title: Exploiting sensing devices availability in AR/VR deployments to foster engagement
     year: '2019'
   TqP9GTsAAAAJ:UeHWp8X0CEIC:
-    citations: 22
+    citations: 23
     title: 'Accio: A data set for face track retrieval in movies across age'
     year: '2015'
   TqP9GTsAAAAJ:W7OEmFMy1HYC:
-    citations: 32
+    citations: 33
     title: Skeleton-Based Explainable Bodily Expressed Emotion Recognition Through Graph Convolutional Networks
     year: '2021'
   TqP9GTsAAAAJ:YOwf2qJgpHMC:
@@ -78,11 +86,11 @@ papers:
     title: Modelling behaviours of people living with neurodegenerative conditions
     year: '2022'
   TqP9GTsAAAAJ:ZeXyd9-uunAC:
-    citations: 13
+    citations: 16
     title: 'SemGes: Semantics-aware Co-Speech Gesture Generation using Semantic Coherence and Relevance Learning'
     year: '2025'
   TqP9GTsAAAAJ:_FxGoFyzp5QC:
-    citations: 41
+    citations: 43
     title: Dynamic temperature scaling in contrastive self-supervised learning for sensor-based human activity recognition
     year: '2022'
   TqP9GTsAAAAJ:_Qo2XoVZTnwC:
@@ -102,7 +110,7 @@ papers:
     title: An energy efficient routing technique and implementation in WSNs
     year: '2014'
   TqP9GTsAAAAJ:hC7cP41nSMkC:
-    citations: 369
+    citations: 401
     title: Llms instead of human judges? a large scale empirical study across 20 nlp evaluation tasks
     year: '2025'
   TqP9GTsAAAAJ:hqOjcs7Dif8C:
@@ -114,7 +122,7 @@ papers:
     title: 'Aligned but Not Partner-Specific: Distinguishing How Multimodal LLM Agents Succeed in Reference Games Without Human-Like Conventions'
     year: '2026'
   TqP9GTsAAAAJ:kNdYIx-mwKoC:
-    citations: 12
+    citations: 13
     title: Leveraging speech for gesture detection in multimodal communication
     year: '2024'
   TqP9GTsAAAAJ:k_IJM867U9cC:
@@ -126,7 +134,7 @@ papers:
     title: Temporal alignment and integration of audio-visual cues for co-speech gesture detection
     year: '2024'
   TqP9GTsAAAAJ:maZDTaKrznsC:
-    citations: 2
+    citations: 3
     title: 'SemConFlow: Semantic Grounding of Holistic Co-Speech Gesture Generation with Contrastive Flow-Matching'
     year: '2026'
   TqP9GTsAAAAJ:qUcmZB5y_30C:
@@ -134,7 +142,7 @@ papers:
     title: Co-Speech Gesture Detection through Multi-phase Sequence Labeling Supplementary Materials
     year: '2023'
   TqP9GTsAAAAJ:qjMakFHDy7sC:
-    citations: 63
+    citations: 64
     title: Multimodal attention-mechanism for temporal emotion recognition
     year: '2020'
   TqP9GTsAAAAJ:qxL8FJ1GzNcC:
@@ -150,7 +158,7 @@ papers:
     title: "\u2018Workshop committees FG 2021"
     year: '2021'
   TqP9GTsAAAAJ:u5HHmVD_uO8C:
-    citations: 50
+    citations: 52
     title: Joint modelling of audio-visual cues using attention mechanisms for emotion recognition
     year: '2023'
   TqP9GTsAAAAJ:ufrVoPGSRksC:
