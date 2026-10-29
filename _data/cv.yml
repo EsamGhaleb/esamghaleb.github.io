@@ -37,7 +37,7 @@ cv:
       - company: "Maastricht University, Department of Advanced Computing Sciences"
         position: "Postdoctoral Researcher, Cognitive Systems Research Group"
         location: "Maastricht, The Netherlands"
-        start_date: "2020-03"
+        start_date: "2021-07"
         end_date: "2022-08"
         summary: "Research on explainable AI for emotion recognition, human behaviour analysis in healthcare, and self-supervised learning for sensor-based human activity recognition."
         highlights:
@@ -47,7 +47,7 @@ cv:
         position: "Doctoral Researcher, Cognitive Systems Research Group"
         location: "Maastricht, The Netherlands"
         start_date: "2016-03"
-        end_date: "2020-02"
+        end_date: "2021-06"
         summary: "Research on affective computing and machine learning, focusing on multimodal emotion recognition."
         highlights:
           - "Represented Maastricht University in the EU H2020 project MaTHiSiS."

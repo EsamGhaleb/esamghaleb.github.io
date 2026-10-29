@@ -17,23 +17,38 @@
   pdf={duogesture.pdf},
   abbr={arXiv26},
 }
-
-@article{wang2026aligned,
-  title={Aligned but Not Partner-Specific: Distinguishing How Multimodal LLM Agents Succeed in Reference Games Without Human-Like Conventions},
-  author={Wang, Po-Ya Angela and Mishra, Chinmaya and {\"O}zy{\"u}rek, Asl{\i} and Rubio-Fern{\'a}ndez, Paula and Ghaleb, Esam},
-  journal={arXiv preprint arXiv:2606.08081},
-  year={2026},
-  month={June},
-  publisher={arXiv},
-  url={https://arxiv.org/abs/2606.08081},
-  preview={aligned_but.png},
-  keywords={Multimodal LLM agents, reference games, partner-specific conventions, dialogue alignment, common ground, human-agent comparison},
-  abstract={Repeated reference games test whether interlocutors replace their initially long descriptions with shorter, partner-specific conventions grounded in shared interaction history. Prior work shows that multimodal LLMs fail to become more efficient across rounds, although they align on the labels they use. How can we determine whether this alignment reflects partner-specific grounding rather than a shared task vocabulary? We address this question by comparing capable multimodal agent dyads with human dyads from the KTH Tangrams corpus. Our novel methodological contribution is a constrained pseudo-dyad baseline that matches the original referential task structure, but breaks partner history. This baseline enables us to test whether the observed label alignment depends on interaction with a specific partner. Across three analytic layers, task competence, description strategy, and alignment dynamics, we find clear differences. Humans reduce effort through entrainment, compressing descriptions and increasing label alignment with partners. Agents instead maintain fixed effort levels, producing verbose descriptions from round one, with near-ceiling label overlap that is statistically indistinguishable between real and pseudo dyads. MLLMs thus achieve coordination without convention, succeeding by verbose description rather than by forming the compact, history-dependent referring expressions characteristic of human dialogue.},
-  selected={true},
-  bibtex_show={true},
-  pdf={AlignedButNotPartnerSpecific.pdf},
-  abbr={arXiv26},
+@inproceedings{wang-etal-2026-aligned,
+    title = "Aligned but Not Partner-Specific: How Multimodal {LLM} Agents Succeed in Reference Games Without Forming Conceptual Pacts",
+    author = "Wang, Po-Ya Angela  and
+      Mishra, Chinmaya  and
+      Ozyurek, Asli  and
+      Rubio-Fernandez, Paula  and
+      Ghaleb, Esam",
+    editor = "Lee, Hung-Yi  and
+      Dev, Sunipa  and
+      Li, Jessy  and
+      Elliott, Desmond",
+    booktitle = "Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing",
+    month = oct,
+    year = "2026",
+    address = "Budapest, Hungary",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.emnlp-main.1978/",
+    pages = "45006--45023",
+    ISBN = "979-8-89176-459-0",
+    abstract = "Repeated reference games test whether interlocutors replace their initially long descriptions with shorter, partner-specific expressions grounded in shared interaction history; that is, with conceptual pacts. Prior work shows that multimodal LLMs fail to become more efficient across rounds, although they align on the labels they use. However, how can we determine whether this alignment reflects partner-specific grounding rather than a shared task vocabulary? We address this by comparing competent multimodal agent dyads with human dyads from the KTH Tangrams corpus. Our novel methodological contribution is a pragmatically constrained pseudo-dyad baseline: rounds from two different real dyads describing the same target at comparable trajectory positions are paired, preserving referential task structure while removing shared partner history. This enables us to test whether the observed label alignment depends on interaction with a specific partner. Across three measures (task competence, description strategy, alignment dynamics), we find clear differences. Humans reduce effort through entrainment, compressing descriptions and increasing label alignment with partners. Agents instead maintain fixed effort levels, producing verbose descriptions from round one, with near-ceiling label overlap that is statistically indistinguishable between real and pseudo dyads. MLLMs thus achieve coordination without conceptual pacts, succeeding by verbose description rather than by forming the compact, history-dependent referring expressions characteristic of human dialogue.",
+     selected={true},
+    bibtex_show={true},
+    pdf={AlignedButNotPartnerSpecific.pdf}
 }
+@article{milkin2026perceptually,
+  title={Perceptually Grounded and Semantics-Aware Evaluation for Holistic Co-Speech Gesture Generation},
+  author={Milkin, Nick and Liu, Lanmiao and Ghaleb, Esam and Ozyurek, Asli and Yumak, Zerrin},
+  abstract={ Holistic and semantics-aware co-speech gesture generation has advanced rapidly, yet evaluation remains behind: objective metrics do not consistently reflect human perception, and semantic appropriateness remains difficult to quantify. We present a perceptually grounded and semantics-aware benchmark that combines standardized model comparison, human-centered metric validation, and fine-grained semantic evaluation. We first curate a list of 13 objective metrics covering different aspects, including distributional similarity, geometric fidelity, kinematic quality, cross-modal synchrony, and semantic appropriateness. For the semantic-appropriateness category, we propose a new metric, Semantic Gesture Preservation (SGP), which measures how far semantic gestures in the ground truth are preserved in the generated gestures. For this, we augment the BEAT2 dataset's annotations using a multi-modal LLM. We then conduct a perceptual study where 101 participants score generated gestures among five dimensions, including human-likeness, motion diversity, absence of animation errors, speech timing and content match. We systematically analyze objective metric--subjective score correlations. Unlike Semantic Score (SC), which shows no significant association with the evaluated perceptual dimensions, SGP is selectively aligned with speech-aware human judgments. We construct five target-specific composite metrics aligned with the subjective dimensions. These composites improve perceptual alignment across all five dimensions, with the largest gains for absence of animation errors and content match, indicating that complementary objective signals can better approximate human judgments than individual metrics alone. Overall, our results show that objective metrics require validation against subjective evaluations.},
+  journal={arXiv preprint arXiv:2610.11669},
+  year={2026}
+}
+ 
 @article{liu2026semconflow,
   title={SemConFlow: Semantic Grounding of Holistic Co-Speech Gesture Generation with Contrastive Flow-Matching},
   author={Liu, Lanmiao and Ghaleb, Esam and {\"O}zy{\"u}rek, Asl{\i} and Yumak, Zerrin},
