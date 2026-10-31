@@ -2,7 +2,7 @@
 layout: post
 title: 🏆 An outstanding paper award at the EMNLP for our work titled "Aligned but Not Partner-Specific"
 permalink: /news/aligned_but/
-date: 2026-08-21 07:59:00+0200
+date: 2026-10-28 07:59:00+0200
 inline: false
 ---
 🏆 We are very honoured that our paper "Aligned but Not Partner-Specific: How Multimodal LLM Agents Succeed in Reference Games Without Forming Conceptual Pacts" received an Outstanding Paper Award at EMNLP2026, one of the leading conferences in natural language processing and AI.
