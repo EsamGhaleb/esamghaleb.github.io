@@ -195,13 +195,13 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/SemConFlow/";
-            },},{id: "news-an-outstanding-paper-award-at-the-emnlp-for-our-work-titled-quot-aligned-but-not-partner-specific-quot",
-          title: '🏆 An outstanding paper award at the EMNLP for our work titled &amp;quot;Aligned...',
+            },},{id: "news-accepted-paper-at-the-emnlp-main-conference-titled-quot-aligned-but-not-partner-specific-quot",
+          title: 'Accepted paper at the EMNLP Main Conference titled &amp;quot;Aligned but Not Partner-Specific&amp;quot;',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/aligned_but/";
-            },},{id: "news-accepted-paper-at-the-emnlp-main-conference-titled-quot-aligned-but-not-partner-specific-quot",
-          title: 'Accepted paper at the EMNLP Main Conference titled &amp;quot;Aligned but Not Partner-Specific&amp;quot;',
+            },},{id: "news-an-outstanding-paper-award-at-the-emnlp-for-our-work-titled-quot-aligned-but-not-partner-specific-quot",
+          title: '🏆 An outstanding paper award at the EMNLP for our work titled &amp;quot;Aligned...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/aligned_but/";
@@ -227,7 +227,7 @@ ninja.data = [{
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=TqP9GTsAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=TqP9GTsAAAAJ&view_op=list_works&sortby=pubdate", "_blank");
         },
       },{
         id: 'social-linkedin',
