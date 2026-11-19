@@ -205,6 +205,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/aligned_but/";
+            },},{id: "news-paper-accepted-at-the-findings-of-the-20th-conference-of-the-european-chapter-of-the-association-for-computational-linguistics-eacl-2026",
+          title: 'Paper accepted at the findings of the 20th Conference of the European Chapter...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/EACL2026/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
